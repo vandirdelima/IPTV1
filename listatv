@@ -713,8 +713,8 @@ https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="NOTICIAS",TV SENADO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="NOTICIAS",RECORD NEWS
-https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24 HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
@@ -729,18 +729,6 @@ http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6238c63deec07b000723dd77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN PORTUGAL
-https://video-auth8.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?
-
-
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="NOTICIAS", CÂMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
@@ -764,12 +752,6 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 ############################################
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",RURAIS
-
-
-
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="NOTICIAS",AGRO+Band
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9342ed0db711b912d1bef3ab86586f9.jpg" group-title="NOTICIAS",TERRA VIVA
