@@ -176,11 +176,6 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES SÉRIES",SOUL CINE CLUBE 
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 
@@ -204,7 +199,7 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w776821197.m3u8
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
+#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="FILMES SÉRIES", TV CLASSICOS DO CINEMA
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8?nimblesessionid=48318552
 
 
