@@ -188,13 +188,8 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GRINGO WESTERN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Session-Identifier=rtya13epkbdn16ebgpx3o2l9&X-Plex-Product=Plex%20Web&X-Plex-Version=4.115.2&X-Plex-Client-Identifier=aorrhiv6nlxk6kah0luiq0ob&X-Plex-Platform=Chrome&X-Plex-Platform-Version=117.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x629%2C1373x630&X-Plex-Token=NGAHx5cksQ-FxCt5dFmu&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=f6317062-9ddc-4ff0-8390-7f3149060add
-
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE WESTERN
