@@ -282,6 +282,10 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="BRASIL",CNB AMERICAN
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=42&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=8dedd72842a6b335775f31715d3ab6d5&app_bundle=com.goldenmedia.wutang&app_store_url=https%3A%2F%2Fwww.thewutangcollection.com%2Fdevices&app_domain=thewutangcollection.com&app_name=wutangcollection&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=wutangcollection&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.thewutangcollection.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America
 mediaManifest
@@ -628,6 +632,9 @@ http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
+
+#EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",BM&C NEWS
+https://vid1646.trvdp.com/media/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d/hls/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d_240.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
