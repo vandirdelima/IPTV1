@@ -519,25 +519,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png" group-title="VARIEDADES", GERMANA
-https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1129428753.m3u8
-
-
 ############### DOCUMENTÁRIOS ##############
 #EXTINF:0 tvg-logo="" group-title="",
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/yCVtQKK.png" group-title="VARIEDADES",URBAN DOCS
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
-
-#EXTINF:0  tvg-logo="https://imgur.com/fjU0OKj.png" group-title="VARIEDADES",URBAN TRAVEL
-https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
-
-#EXTINF:0  tvg-logo="https://imgur.com/YTEJYrB.png" group-title="VARIEDADES",URBAN TURBO
-https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
-
-
-
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Bw-eF1xIcXI/XSDTesUtj6I/AAAAAAAABTo/BNFF8mttDMI7jt2WtZa9lU3yEJWGa6JCACPcBGAYYCw/s320/Screenshot_2019-07-06-13-44-18.png" group-title="VARIEDADES",TVFUTURA CE
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1222635818.m3u8
@@ -549,10 +532,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="VARIEDADES",TVUFG 
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1276159296_b1544100_sleng.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e700b36011ab491b231e9f33028ff049.png" group-title="VARIEDADES",TVFAAP
-http://midiamobile.faap.br/faaplatamlive-live/stream_480/chunklist_w274302242.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LV2P1ZoU6PI/XN2mimSYfAI/AAAAAAAAA30/9HMv5t2V1eAC2fQTGPSQ8ee-FXdDpHilwCLcBGAs/s320/Screenshot_2019-05-16-15-01-57.png" group-title="VARIEDADES",TVMASTER
@@ -587,11 +566,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070
 #EXTINF:0  tvg-logo="https://imgur.com/RrCqjeU.png" group-title="VARIEDADES",LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="VARIEDADES",NATIVA TV
-https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
-
 #EXTINF:0  tvg-logo="https://imgur.com/Je5BrsX.png" group-title="VARIEDADES",AMAZONIA TV E RADIO
 https://cdn.jmvstream.com/w/AVJ-13076/playlist/chunklist.m3u8
 
@@ -608,9 +582,6 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",DOCUMENTÁRIO+
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CDPkXX4-DEpyuzx8MA-x
 
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",
@@ -662,13 +633,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
 
-
-
-
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",LUZILANDIA
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
-
-
 
 #EXTINF:0  tvg-logo="https://imgur.com/hgSSNfk.png" group-title="NOTICIAS",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
