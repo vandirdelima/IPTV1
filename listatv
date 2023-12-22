@@ -281,8 +281,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="FILMES SÉRIES",CNB AMERICAN
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CNB AMERICAN
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
 
 
