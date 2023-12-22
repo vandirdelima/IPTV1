@@ -704,10 +704,20 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/chunklist_w674184229.m3u8
 ####################################
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS", PORTUGUES
 
+#EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="NOTICIAS", CANAL GOV
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
-#EXTINF:0  tvg-logo="http://esrv.cc:80/images/fe60f96c003e5b8cce5222aaf247ac00.png" group-title="NOTICIAS",Record News HD
-http://esrv.cc:80/berepolici/Bolsonaro2022/365.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="NOTICIAS",TV JUSTICA
+https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="NOTICIAS",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="NOTICIAS",TV SENADO
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="NOTICIAS",RECORD NEWS
+https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24 HS NEWS
+http://cdn.connectbr.com.br/24_news/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
