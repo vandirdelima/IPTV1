@@ -680,6 +680,10 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS", TVE 24H
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_576.m3u8
+
+
 #EXTINF:0 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NOTICIAS",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
