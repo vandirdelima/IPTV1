@@ -672,6 +672,14 @@ https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w444746557.m3u8
 https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",MILAGROS
+http://201.87.136.36:8091/hls/tvmilagro.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV COOP
+https://stream01-tvcoopsc.netpointcdn.com.br/chunklist.m3u8
+
+
 ############################################
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS", INTERNACIONAIS 
 
