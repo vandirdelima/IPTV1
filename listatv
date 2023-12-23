@@ -630,7 +630,11 @@ http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 
 #EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",BM&C NEWS
-https://vid1646.trvdp.com/media/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d/hls/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d_240.m3u8
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CqwFqHn4c19eHNhwcFGWfPKFPeCWJiNQACu8_gBjBEFUL1S24OFZY7_n_x_05YRPY9AA5tpgBLxXjpgKy-LO6cRLbcAeMmOsi7bUObGGY3FmFiNg_ugN5Y6qsUPS_rUnK9Q90B49nPvliGWWQS-CBScq3bFOotHmhKM4zjAu13SgBmB4m5_S6xdJzvrPKX2MJwQF-j-CaNsVAnGBdMPqznAK3oQsu502NAWkuCtEElv4TCGCbsH5guR8VVxT06iZQDGPFQ4oWJp_tSFcIwOJrMrb3EAyLqSQ6k7APrAdt_cPzKQsMcB49EtkwQzBkk7H6XN5TwYBNGxieXdZKdoWTpwJNHLfWbrlUJhgq-2JMqlKAFsvvRZImTh9y6726D0zZ8NylYH6auuxLNgHa0lpOWHq6Ai7fC27p5Ej3XLphdSUJODL-KNNvHL26F7aCijMNLwAzepGdR9i4cba5FHfC4VxKXXL9zZ9XoARTWSBqyFNx4uNcc3BO6JmyJPUsLGHgVavoyOSQBfufKau-qw_GC696gcTErk1Fp2cRig0w8KSwMYqotiM4Urqk--ycb0kBREMLJ9xp8N2Ivoyrdr0RUXW2jZgu8f0tdatylIYGrSp2unDTCMXZxMrousM5zFl4F4bXE_AG542emcn7SHzAl5XlEtYSDB9J8uyncvh95TCpKpHRAFYPEu2Rka37zSv1bZZcOpCi27I2JKd9urLYY0cNI-Owz6f0q2T_07ku3ZYHuaTb9oteHYBcQD-fOzBjlBHUg_7P8tMV6W50RuYI_Ha7sCDJIm_MYXWQfKYLi7mM7V11H4Sw90C34rgrfHLgkIcw6IPjnimqF6mnBL4R0_ILo99xpQWXMirG-QhXU0EDBdEw6-vBXcLiD2Pzx9Qvqx_5Oe-F8fIvfdLT4t3Ggy7HjLsXqkpqEUCFpsgASoJdXMtZWFzdC0xMNwG.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
@@ -668,10 +672,6 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb6287dd4f10978e4d343844354a20d.webp" group-title="NOTICIAS",CUBAVISION
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
 
 
 #EXTINF:0 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NOTICIAS",CGTN Esp
