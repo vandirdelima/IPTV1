@@ -697,6 +697,9 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4df00b3bd682d177e0acd3a93c7e540a.webp" group-title="NOTICIAS",CNBC
+https://cdn-tx1-na.lncnetworks.host/hls/cnbc_live/index.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
