@@ -588,7 +588,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",
-##################   NOTICIAS  ###################
+##################   NOTICIAS RADIOS ###################
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS", RADIOS
 
 
@@ -618,9 +618,6 @@ https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="NOTICIAS",RECORD NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24 HS NEWS
-http://cdn.connectbr.com.br/24_news/index.m3u8
-
 
 #EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -634,6 +631,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 
 #EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",BM&C NEWS
 https://vid1646.trvdp.com/media/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d/hls/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d_240.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24HS NEWS
+http://cdn.connectbr.com.br/24_news/index.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
@@ -670,6 +670,9 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb6287dd4f10978e4d343844354a20d.webp" group-title="NOTICIAS",CUBAVISION
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
+
 
 #EXTINF:0 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NOTICIAS",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -682,13 +685,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",DEMAND AFRICA
-https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="NOTICIAS",NHK Ing
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="NOTICIAS",NHK WORLD Ing
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",RT DOC Ing
@@ -699,9 +697,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS",NEWSMAXTV 
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
@@ -710,14 +705,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",REUTERS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5eea71d65252710041e0ccbc.m3u8?X-Plex-Session-Identifier=uhcvvd7ozq8eljl5res17gu1&X-Plex-Product=Plex%20Web&X-Plex-Version=4.109.2&X-Plex-Client-Identifier=aorrhiv6nlxk6kah0luiq0ob&X-Plex-Platform=Chrome&X-Plex-Platform-Version=114.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x629%2C1373x633&X-Plex-Token=NGAHx5cksQ-FxCt5dFmu&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=f6317062-9ddc-4ff0-8390-7f3149060add
-
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",Bloomberg 
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Session-Identifier=3xddrjrqr6cvjis4grcmg5na&X-Plex-Product=Plex%20Web&X-Plex-Version=4.109.2&X-Plex-Client-Identifier=aorrhiv6nlxk6kah0luiq0ob&X-Plex-Platform=Chrome&X-Plex-Platform-Version=114.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x629%2C1370x637&X-Plex-Token=NGAHx5cksQ-FxCt5dFmu&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=f6317062-9ddc-4ff0-8390-7f3149060add
 
 
 ############## ESPORTES  ################
