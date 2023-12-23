@@ -646,6 +646,12 @@ https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/c
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",LUZILANDIA
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f697cd448cd86e994fd36cf4c5c4ae09.webp" group-title="NOTICIAS",011 NEWS
+https://011news.akamaized.net/011news/011news/chunklist_w128785982.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",FALA LITORAL SC
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w414417640.m3u8
+
 #EXTINF:0  tvg-logo="https://imgur.com/hgSSNfk.png" group-title="NOTICIAS",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -697,11 +703,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4df00b3bd682d177e0acd3a93c7e540a.webp" group-title="NOTICIAS",CNBC
-https://cdn-tx1-na.lncnetworks.host/hls/cnbc_live/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CBS
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CBS NEWS BOSTOM
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 
