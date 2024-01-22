@@ -209,8 +209,7 @@ http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiyKuci.png" group-title="FILMES SÉRIES", INFERNO SOBRE RODAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="FILMES SÉRIES",CLASSIQUE TV SERIES
+
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0gvImpR.png" group-title="FILMES SÉRIES", SERIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
