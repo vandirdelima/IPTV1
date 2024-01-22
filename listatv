@@ -250,8 +250,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/cFgBNo7.png" group-title="FILMES SÉRIES",CSI MIAMI
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/vNv8A5E.png" group-title="FILMES SÉRIES",NCIS
-
-
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/O9S1zzI.png" group-title="FILMES SÉRIES",TRATAMENTO DE CHOQUE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
