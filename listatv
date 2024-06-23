@@ -311,12 +311,16 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
-https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
+
 
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="FILMES SÉRIES",VIVAX
 https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1168854165.m3u8
