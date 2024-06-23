@@ -89,27 +89,13 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINDIE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
-
-
 #EXTINF:0 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES SÉRIES",DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",MOON PLUS
-https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE HITS
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
@@ -129,8 +115,9 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="FILMES SÉRIES",BORA FILMES
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
+
+
+################ RUN TIME CANAIS INICIO ################################
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w1200-h630-p-k-no-nu/RUNTIME.jpg" group-title="FILMES SÉRIES",RUNTIME
@@ -161,8 +148,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 
-#EXTINF:0  tvg-logo="https://imgur.com/TRhivEt.png" group-title="FILMES SÉRIES",ADRENALINA FREE ZONE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
+
+################ RUN TIME CANAIS FINAL  ################################
 
 
 #EXTINF:0  tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="FILMES SÉRIES",DEMAND AFRICA FILMES
@@ -198,43 +185,50 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w776821197.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 
-##################################SERIES PLUTO #####################################
+########################SERIES PLUTO INICIO #################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zSnSoGh.png" group-title="FILMES SÉRIES",CLUBE DO TERROR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/64e501eec630a900088ed0f8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES GRATUITAS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="FILMES SÉRIES", CHAVES
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YRDnUMz.png" group-title="FILMES SÉRIES", CHAPOLIM COLORADO
+
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiyKuci.png" group-title="FILMES SÉRIES", INFERNO SOBRE RODAS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/64ff2c773efb5100082efb73-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0gvImpR.png" group-title="FILMES SÉRIES", SERIES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4O2PLBv.png" group-title="FILMES SÉRIES",SERIES DRAMA
+https://r.mjh.nz/PlutoTV/65f060d84e01740008d7421f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eBv8SSc.png" group-title="FILMES SÉRIES",SERIES COMEDIA
+https://r.mjh.nz/PlutoTV/655e5bc94261ca000810cb17-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VwRM4NC.png" group-title="FILMES SÉRIES",SERIES CRIMINAIS
+https://r.mjh.nz/PlutoTV/6474ab5cdc7a760008745008-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/08DowrA.png" group-title="FILMES SÉRIES",SERIES ACAO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m3CFvl8.png" group-title="FILMES SÉRIES",SERIES SCI FI
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="FILMES SÉRIES", OS TRES PATETAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P6WeoZS.png" group-title="FILMES SÉRIES",UM MALUCO NO PEDACO
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/qI10h43.png" group-title="FILMES SÉRIES",EU A PATROA E AS CRIANCAS
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="FILMES SÉRIES",JEANNIE E UM GENIO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ab6a80-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad9304b-c000-489a-bfe8-f5446689b1a3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/UU2MN0R.png" group-title="FILMES SÉRIES",A FEITICEIRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="FILMES SÉRIES",AS PANTERAS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://stmv1.srvif.com/cangels/cangels/chunklist_w1381300654.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="FILMES SÉRIES",O HOMEM QUE VEIO DO CEU
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://r.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="FILMES SÉRIES",RETRO 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+https://r.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Rju4d92.png" group-title="FILMES SÉRIES",MACGYVER
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://imgur.com/b6BhufD.png" group-title="FILMES SÉRIES",LOUCO POR VOCE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://imgur.com/dWazyzp.png" group-title="FILMES SÉRIES",STARSKY & HUTCH
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRae10A.png" group-title="FILMES SÉRIES",ARNOLD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="FILMES SÉRIES",KENAN E KEL
@@ -244,25 +238,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="FILMES SÉRIES",AMIGOS E HERMANOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/cFgBNo7.png" group-title="FILMES SÉRIES",CSI MIAMI
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vNv8A5E.png" group-title="FILMES SÉRIES",NCIS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+
+
+########################### SERIES PLUTO FIM #####################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="FILMES SÉRIES",COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="FILMES SÉRIES",CANAL DA PRACA
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/O9S1zzI.png" group-title="FILMES SÉRIES",TRATAMENTO DE CHOQUE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="FILMES SÉRIES",COMEDIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="FILMES SÉRIES",CANAL DA PRACA
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
-
-################################## SERIES PLUTO FIM #####################################
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBRHvTSWccv1UMvCjl6qlfoIF0N2kZV0revzECEFiFf-H6Jt6lUmrFOYqb8sLZdbwtrgo6dJCz7FrjY5WTzUgQcs9afxj1sx7HnxK-Euz_T8T2BYSugqJdBndrI0I3nlDf4dWn5lJbQrA_IcdlEI-sle8dChnDOU-VyrmeA4vUtPrjDDJuVbDYcQvr/w1200-h630-p-k-no-nu/AWTV.jpg" group-title="FILMES SÉRIES",AWTV
+#EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBkjsYSvi9QAEQE7zhLYvo2KEmhtBORElp5R1ri6CVqp1Xakrtr1OSNH04NeF8oFAMUV9nSTvKmOnIgdMIM8O-VnkFFlqPNjPrylbO3g7SrvtFiSKdQE2hGj8x0R2MvjPZtzVC-35L3aqXMglRYxvWTgM7nqdcu6ZQbIW3lSTqyTv6T7j-wXNIpvW/w1200-h630-p-k-no-nu/CANAL%2029.jpg" group-title="FILMES SÉRIES",CANAL29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
@@ -274,9 +271,6 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CNB AMERICAN
-https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
@@ -302,23 +296,16 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
 
 
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjhCZ9zZcLwYKGy_-3sqIcjm9rYVaM5aWxCj-t52M3NnuaOuHyEFABWzcop_B5ZnpCPeVnslyzunJGQc3vBi6Pn9VLwpapYNQh7nO1rkcAcJzctncX49C6FjSda6jgqFt4jumXDh5H3OZXQtX97FPzhRkjo6tZQY6GXphlZ8gVIRHMQc8zr43oj1E5/w1200-h630-p-k-no-nu/IMPERIAL%20TV.jpg" group-title="FILMES SÉRIES",IMPERIAL
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
-
-
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="FILMES SÉRIES", REDE BRASIL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
 
-#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 
 
@@ -338,6 +325,9 @@ https://5cf4a2c2512a2.streamlock.net/8188/8188/chunklist_w350114802.m3u8
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
 
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjhCZ9zZcLwYKGy_-3sqIcjm9rYVaM5aWxCj-t52M3NnuaOuHyEFABWzcop_B5ZnpCPeVnslyzunJGQc3vBi6Pn9VLwpapYNQh7nO1rkcAcJzctncX49C6FjSda6jgqFt4jumXDh5H3OZXQtX97FPzhRkjo6tZQY6GXphlZ8gVIRHMQc8zr43oj1E5/w1200-h630-p-k-no-nu/IMPERIAL%20TV.jpg" group-title="FILMES SÉRIES",IMPERIAL
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
@@ -345,14 +335,6 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1107678837.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",OSÓRIO
-https://serv2.videovox.pw/video13154/video13154/chunklist_w1919008961.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULB
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TELEWEB
@@ -367,15 +349,8 @@ https://video01.kshost.com.br/tiago2001/tiago2001/chunklist_w583024808.m3u8
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1021140636.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MARCHETI
-https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",VARGEM
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w191368855.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh9UnKD1YYyXz8WAgHumeM-fwtwf8AJB73vED9yhvOrcNEnAqLtiAmdUMWqpxDiqBMoZvWbFE7_Z8nebg3dsV93-rXkpXi0y126WcE9QJqOtV-KGNQ3Zunma0sk2_WruQ-Zc46H9GTF2aMGr9fr1-o7QWkEF6_DCGFxN61mxp2AB5DU8abl9kIHVNy/w1200-h630-p-k-no-nu/TV%20POTENGI.jpg" group-title="FILMES SÉRIES",POTENGUI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w752124532.m3u8
 
 
 ############################ VARIEDADES  ####################
