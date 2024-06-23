@@ -238,8 +238,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="FILMES SÉRIES",AMIGOS E HERMANOS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/cFgBNo7.png" group-title="FILMES SÉRIES",CSI MIAMI
 https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vNv8A5E.png" group-title="FILMES SÉRIES",NCIS
@@ -253,9 +251,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="FILMES SÉRIES",CANAL DA PRACA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/O9S1zzI.png" group-title="FILMES SÉRIES",TRATAMENTO DE CHOQUE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
