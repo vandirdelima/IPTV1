@@ -587,20 +587,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
-http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
-
-#EXTINF:0  tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",BM&C NEWS
-https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CqwFqHn4c19eHNhwcFGWfPKFPeCWJiNQACu8_gBjBEFUL1S24OFZY7_n_x_05YRPY9AA5tpgBLxXjpgKy-LO6cRLbcAeMmOsi7bUObGGY3FmFiNg_ugN5Y6qsUPS_rUnK9Q90B49nPvliGWWQS-CBScq3bFOotHmhKM4zjAu13SgBmB4m5_S6xdJzvrPKX2MJwQF-j-CaNsVAnGBdMPqznAK3oQsu502NAWkuCtEElv4TCGCbsH5guR8VVxT06iZQDGPFQ4oWJp_tSFcIwOJrMrb3EAyLqSQ6k7APrAdt_cPzKQsMcB49EtkwQzBkk7H6XN5TwYBNGxieXdZKdoWTpwJNHLfWbrlUJhgq-2JMqlKAFsvvRZImTh9y6726D0zZ8NylYH6auuxLNgHa0lpOWHq6Ai7fC27p5Ej3XLphdSUJODL-KNNvHL26F7aCijMNLwAzepGdR9i4cba5FHfC4VxKXXL9zZ9XoARTWSBqyFNx4uNcc3BO6JmyJPUsLGHgVavoyOSQBfufKau-qw_GC696gcTErk1Fp2cRig0w8KSwMYqotiM4Urqk--ycb0kBREMLJ9xp8N2Ivoyrdr0RUXW2jZgu8f0tdatylIYGrSp2unDTCMXZxMrousM5zFl4F4bXE_AG542emcn7SHzAl5XlEtYSDB9J8uyncvh95TCpKpHRAFYPEu2Rka37zSv1bZZcOpCi27I2JKd9urLYY0cNI-Owz6f0q2T_07ku3ZYHuaTb9oteHYBcQD-fOzBjlBHUg_7P8tMV6W50RuYI_Ha7sCDJIm_MYXWQfKYLi7mM7V11H4Sw90C34rgrfHLgkIcw6IPjnimqF6mnBL4R0_ILo99xpQWXMirG-QhXU0EDBdEw6-vBXcLiD2Pzx9Qvqx_5Oe-F8fIvfdLT4t3Ggy7HjLsXqkpqEUCFpsgASoJdXMtZWFzdC0xMNwG.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
 
@@ -621,16 +607,13 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w4144
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Tv5DC9ePuzU/YI7n8pZELlI/AAAAAAAAEnQ/sVx4B2SPpOM1sW5Ebccd1kM6QW58IVXHwCLcBGAsYHQ/s0/TV%2BBRICS.png" group-title="NOTICIAS",BRICS
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
-
-
 ############################################
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",RURAIS
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9342ed0db711b912d1bef3ab86586f9.jpg" group-title="NOTICIAS",TERRA VIVA
-https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w444746557.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8qceqq.m3u8?auth=1720137471-2562-qggs2pcq-9699bc927cc6ad2ba03536b8c9c36038XZk6JBEpYX56D5NDEITCY6VaWxOhTuFeuK9o_IwMTllXvAan4S1pbvcdebyvreKXvd9UKB_ZnU61AHZV4OMxRmxXOvkUfTKp2d7mE_zEi2s9xt6wBCC-RSKzMHS93co8j7AYaLUFD98XiIhqA4ou6wPHTJOz6PSaFEIiCGF05g17Yer8cuaECNL1UqlGXrKajH3dJcnInOR60Bx9TCtY_7R1nVZi6BE1S-FtsIA-tgPOnH3SgSJG9Bov9liO4RqM7nhxtgOugqyh6llpUN4DTTqzpvguCnljZn125UCJXCl33rBEX6FXAV92voIaUQNrgwdFQoFTwOvi08goPX8UO13N_JlVWIDRxV3xoRUsmpeg6gKaKKQnfE-PdLgAcn32EJzo4tldYYtIYrX6nPnXL9RoDTqFJL1qK6-RDZ892PWYT9rhtA9Bw2qCbvQbwh-TN9qfLbpt_u-Jrsop84X2kPXX8IrdUdEZnNpLke1RpRNdZCepD6d_pO3hFKPLLHlq75zW3rl77xlt8x2XRiWalysrn-D-XMM-zIeEbxM8l6AxjSUon-NDFpEG613nXSjAU9E1Q47fR0Oiseh0DOmbNoNZMsEruIdkZODsMLhLfuPU6fnJ_KycEMIuolw65RSn7o_f0hEYy4xG-ajnxIz072NAj77GP6T9jIUMOZSL0tx2yvSef4twvD8m5o0nZoRNqDTJM7UtGKEkx1NvCHcbCQ0wTyXSx9KZVL4yrQctMhASYc_KA9zhY2IpKoWh5jX1JQHo38Dxos4__WLY8j8EGXCEUjaUfKSuHPhqnd4MN4lce8CYWXRbO2WhDJ-Y1421QGErZdLjwLYQlLTp0yY6OUYxE6HoSNP2nVgSLx-7nRnHLvQpCKBcF6gVQ1m97B56_GvQEMAFRM7W7PfRWStCsaOw1pQNOOVO9oruDG8S47gKB885MYSld4gSlQsCyS66QxwPiBXLsnhXHnYRDiI1rjXNCumMPgYxnf2EwPmywlu9gBFFw67QQliBdv-UuWSrCSsQJONnumv3VifQiCy_nTbi0bcp8es3yTbE2ROj_bVs_W0G7_Hd40nSeIJap9v94VCh6lhE2lmnKdtzQbvl48ZaZBthdBeRetH1q8x-A7XI5mXVNynp462kfA8yrhQqB&af=[APIFRAMEWORKS]&vv=[VASTVERSIONS]&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Fterraviva.uol.com.br%2Fon-live
+
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="NOTICIAS",AGROTOUR RS
