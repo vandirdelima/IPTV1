@@ -917,10 +917,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_w747426816.m
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w579992752.m3u8
 
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-XR6Q2CVUGpY/XP8vFvvb_JI/AAAAAAAABBc/NSr20PLxk6gG0w-Hc6iYY-Akdl_UjczFACPcBGAYYCw/s320/Screenshot_2019-06-11-00-52-56.png" group-title="VARIEDADES",TVCI LITORAL PR
-https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
 #############################################
 
@@ -944,10 +940,6 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1276159296_b15441
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LV2P1ZoU6PI/XN2mimSYfAI/AAAAAAAAA30/9HMv5t2V1eAC2fQTGPSQ8ee-FXdDpHilwCLcBGAs/s320/Screenshot_2019-05-16-15-01-57.png" group-title="VARIEDADES",TVMASTER
 https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1700072303.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",VOTORANTIN
-https://v8.ciclano.io:1443/tvvotorantim/_definst_/tvvotorantim/playlist.m3u8
 
 
 #EXTINF:0  tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="VARIEDADES",Curta HD
