@@ -531,18 +531,58 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 
 ############### RÁDIO ###############
+
 #EXTINF:0 group-title="RADIO",That 70's Channel
 http://los.cdnstream.com/1101_128
 
-#EXTINF:0 group-title="RADIO",Dance Bem 70,80,90
+#EXTINF:0 group-title="RADIO",Rock Radio USA
+https://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
+
+
+#EXTINF:0 group-title="RADIO",City Rockers
+https://sp0.redeaudio.com/9980/stream/;stream.mp3
+
+
+#EXTINF:0 group-title="RADIO",Studio Souto Discoteca 70s
+https://centova5.transmissaodigital.com:20013/;stream.mp3
+
+
+#EXTINF:0 group-title="RADIO",Dance Bem 70 80 90
 https://radio.stmsrv.com:8170/;?1724006332480
+
 
 
 #EXTINF:0 group-title="RADIO",B4B FUNK FEVER
 https://eu10.fastcast4u.com/b4bdiscofunk/stream?icy=http/;stream.mp3
 
-#EXTINF:0 group-title="RADIO",Studio Souto Discoteca 70s
-https://centova5.transmissaodigital.com:20013/;stream.mp3
+
+#EXTINF:0 group-title="RADIO",Eurodance 90's
+https://stream-161.zeno.fm/zx9h2b61u8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDloMmI2MXU4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imw3TzR3OTF1U0pDblJIU1BUVVV3eHciLCJpYXQiOjE3MjQ1NDcyMDMsImV4cCI6MTcyNDU0NzI2M30.MvjW30-txVPA1HwK9VxVs5xfzbWxZGsvnXpaSJE7vec
+
+
+#EXTINF:0 group-title="RADIO",Eurodance 90's
+https://stream-155.zeno.fm/g1u270e2ybruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXUyNzBlMnlicnV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImhoazdxVVRsUlc2SWhDdzU1aEVJTnciLCJpYXQiOjE3MjQ1NDg2MjYsImV4cCI6MTcyNDU0ODY4Nn0.431J7ulJ4DJTolrg-bKhUgCCQFmsy0VpwLAvy71SWzw
+
+
+
+#EXTINF:0 group-title="RADIO",Dance Music Anos 2000
+https://cloud1.cdnseguro.com:2190/;/stream/;stream.mp3
+
+
+#EXTINF:0 group-title="RADIO",Planeta Dance
+https://stm7.painelvox.com:8214//;stream.mp3
+
+#EXTINF:0 group-title="RADIO",Ibiza Radios - Hits
+https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
+
+#EXTINF:0 group-title="RADIO",Box Mix Web Rádio
+https://stm16.xcast.com.br:7446/stream/;stream.mp3
+
+#EXTINF:0 group-title="RADIO",USA DANCE
+https://stream2.rcast.net/66781
+
+
+
 
 
 
