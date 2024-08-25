@@ -530,43 +530,19 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 
-
-############## ESPORTES  ################
-#EXTINF:0 tvg-logo="" group-title="",#### ESPORTES ####
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",URBAN SPORTS
-https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",ESPORTES BRASILIA
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w2053053083.m3u8
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title="ESPORTES", ALLSPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w121772060.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS 1
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/chunklist_w1684681908.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS 2
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist_w507879113.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",COMBA
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_1080p.m3u8
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES",REDBULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-
 ############### RÁDIO ###############
 #EXTINF:0 group-title="RADIO",That 70's Channel
 http://los.cdnstream.com/1101_128
 
-#EXTINF:0 group-title="RADIO",Rádio Dance Bem(70,80,90)
+#EXTINF:0 group-title="RADIO",Dance Bem 70,80,90
 https://radio.stmsrv.com:8170/;?1724006332480
+
+
+#EXTINF:0 group-title="RADIO",B4B FUNK FEVER
+https://eu10.fastcast4u.com/b4bdiscofunk/stream?icy=http/;stream.mp3
+
+#EXTINF:0 group-title="RADIO",Studio Souto Discoteca 70s
+https://centova5.transmissaodigital.com:20013/;stream.mp3
 
 
 
