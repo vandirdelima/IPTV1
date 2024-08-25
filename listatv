@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+
+
 ############### CONTATOS  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### CONTATO ####
 
@@ -38,48 +40,12 @@ http://streaming15.hstbr.net:8288/autodj
 #EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
 
 
-
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="CARTOON",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
-
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w903109623.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="CARTOON",JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1143774761.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",KIDS MAIS
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
-
-
-#EXTINF:0  tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="CARTOON",Cartoon Network (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
-#EXTINF:0  tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="CARTOON",Cartoonito (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME 
-https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",GEEKDOT
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",LOADING
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w2107640393.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",WORDING	
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1495874316.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",OTAKU SING	
-https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1911371551.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
 ############################### FILMES SÉRIES  ##########
@@ -100,7 +66,14 @@ https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES SÉRIES",JSID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CEI
+https://stmv7.samcast.com.br/eduardo5379/eduardo5379/chunklist_w869740411.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MULTICANAIS
+https://stmv4.voxtvhd.com.br/multicanais/multicanais/chunklist_w696400101.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",1980 CHANNEL
+https://stmv6.voxtvhd.com.br/channel80s/channel80s/chunklist_w1422219601.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
@@ -166,23 +139,35 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
+################# CANAIS CLASSIQUE #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w230143934.m3u8
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE 
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV 
+https://stmv1.srvif.com/classique/classique/chunklist_w1185693098.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w776821197.m3u8
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STARTREK
+https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE PANTERAS
+https://stmv1.srvif.com/cangels/cangels/playlist.m3u8
+
+
+
+################# CANAIS CLASSIQUE FINAL #####################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES GRATUITAS
+#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES 
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
 
@@ -193,11 +178,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-
-########################### SERIES PLUTO FIM #####################################
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="FILMES SÉRIES",COMEDIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="FILMES SÉRIES",CANAL DA PRACA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
@@ -216,6 +196,15 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w29444831.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV 100
+https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
@@ -572,6 +561,16 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_1080p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/canale-7-200x141.png" group title="ESPORTES",CANALE 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+############### RÁDIO ###############
+#EXTINF:0 group-title="RADIO",That 70's Channel
+http://los.cdnstream.com/1101_128
+
+#EXTINF:0 group-title="RADIO",Rádio Dance Bem(70,80,90)
+https://radio.stmsrv.com:8170/;?1724006332480
+
+
+
+
+
+
 
