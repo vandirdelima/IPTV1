@@ -36,7 +36,7 @@ http://199.195.194.140:8300//;stream.mp3
 http://streaming15.hstbr.net:8288/autodj
 
 
-###################### CARTOONS  #####################
+############### CARTOONS  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
 
 
@@ -48,8 +48,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 
-############################### FILMES SÉRIES  ##########
-#EXTINF:0 tvg-logo="" group-title="",## FILMES E SÉRIES ##
+############### FILMES SÉRIES  ###############
+#EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd3WKhA_7X3GMPBQXKdfNMXNbDN9efkL6lBVAQO6UG4-b7qEVtN1FJZi8KuGRfki4IH4U9Y530Qrf6WINtWs61glFHstIrvk9IF_0rUPhqCHDs5BTmxu7D2Vi1GiImykchqs9LT0qa7SYj8ocYjztqYfNahQEmcvIC_AEEwf0ZAdhiQiyAR4gabzTy/w1200-h630-p-k-no-nu/MYTIME%20BRASIL.jpg" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
@@ -129,7 +129,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
 ####################### FILMES SÉRIES CLÁSSICOS  #####################
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",
+#EXTINF:0 tvg-logo=""group-title="",#### CLÁSSICOS ####
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
@@ -213,8 +213,7 @@ mediaManifest
 
 
 ######################## FILMES e VARIEDADES #######################
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",######## FILMES E VARIEDADES ########
-
+#EXTINF:0 tvg-logo=""group-title="",#### FILMES E VARIEDADES ####
 
 
 #EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="FILMES SÉRIES", AGUA BOA
@@ -320,9 +319,7 @@ L#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2b
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1883670134.m3u8
 
 
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",#### REDES #### 
-#########################################
+####################### REDES #############################
 
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="VARIEDADES",TV ONE
@@ -396,8 +393,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_w747426816.m
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w579992752.m3u8
 
 
+######################## GOSPEL #################################
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
-#############################################
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d8fb419ad2b89ff1302e149a9774bc5.png" group-title="VARIEDADES",UNIVERSAL
@@ -410,7 +407,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 
 
 ############### DOCUMENTÁRIOS ##############
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",#### DOCUMENTÁRIO ####
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="VARIEDADES",TVUFG 
@@ -453,8 +450,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-####################################
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS", PORTUGUES
+########################### NOTICIAS #########################
+#EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="NOTICIAS",TV CAMARA
@@ -488,16 +485,14 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w4144
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 
-############################################
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",RURAIS
+########################## RURAIS ########################
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="NOTICIAS",AGROTOUR RS
 https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 
 
-############################################
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS", INTERNACIONAIS 
+######################### INTERNACIONAIS ###########################
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR
@@ -530,7 +525,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 
-############### RÁDIO ###############
+############### RÁDIO ############### 
+#EXTINF:0 tvg-logo="" group-title="",#### RÁDIOS ####
 
 #EXTINF:0 group-title="RADIO",That 70's Channel
 http://los.cdnstream.com/1101_128
