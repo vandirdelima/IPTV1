@@ -30,14 +30,9 @@ Session-Id=54596037-5703-4049-806b-0775b9679af6&X-Plex-Playback-
 Session-Id=f4cdae57-d491-4534-863b-9721a5c734ea
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-
-
-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJ
-
-AwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-
-
-title="CARTOON",RETRO CARTOON
+#EXTINF:0 tvg-logo="" group-title="CARTOON",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w903109623.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="CARTOON",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -47,19 +42,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 ############### FILMES SÉRIES  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
-#EXTINF:0 tvg-
 
-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd
-
-3WKhA_7X3GMPBQXKdfNMXNbDN9efkL6lBVAQO6UG4-
-
-b7qEVtN1FJZi8KuGRfki4IH4U9Y530Qrf6WINtWs61glFHstIrvk9IF_0rUPhqCHDs5
-
-BTmxu7D2Vi1GiImykchqs9LT0qa7SYj8ocYjztqYfNahQEmcvIC_AEEwf0ZAdhiQiyA
-
-R4gabzTy/w1200-h630-p-k-no-nu/MYTIME%20BRASIL.jpg" group-
-
-title="FILMES SÉRIES",MY TIME
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 
