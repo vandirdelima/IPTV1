@@ -81,14 +81,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 
-
-#EXTINF:0  tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="FILMES SÉRIES",DEMAND AFRICA FILMES
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
-
-
 ####################### FILMES SÉRIES CLÁSSICOS  #####################
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",
 
@@ -232,6 +224,13 @@ https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1021140636.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",VARGEM
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w191368855.m3u8
+
+
+#EXTINF:0  tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="FILMES SÉRIES",DEMAND AFRICA FILMES
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
 ############################ VARIEDADES  ####################
