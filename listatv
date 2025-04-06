@@ -52,6 +52,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 ############### FILMES SÉRIES  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TESTE
+https://stmv1.srvif.com:1443/play.php?login=backuptv&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2028.mp4
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
@@ -130,9 +133,6 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b.m3u8?X-Plex-Session-Identifier=nowtfl7sfjrfjnbe6w09m4un&X-Plex-Product=Plex%20Web&X-Plex-Version=4.140.1&X-Plex-Client-Identifier=31vzcdyuo63c67v1xfna9t9l&X-Plex-Platform=Chrome&X-Plex-Platform-Version=130.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x607%2C1366x768&X-Plex-Token=xzF-j-PLnqPWJ7BzyQFm&X-Plex-Language=pt&Accept-Language=pt&X-Plex-Session-Id=54596037-5703-4049-806b-0775b9679af6&X-Plex-Playback-Session-Id=f4cdae57-d491-4534-863b-9721a5c734ea
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
@@ -150,9 +150,6 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1185693098.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STARTREK
-https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE PANTERAS
@@ -210,21 +207,14 @@ mediaManifest
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E VARIEDADES ####
 
 
-#EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="FILMES SÉRIES", AGUA BOA
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
-
-
-
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="FILMES SÉRIES",TELA VIVA
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
-
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
-https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
