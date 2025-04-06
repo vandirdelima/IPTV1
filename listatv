@@ -124,7 +124,7 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
 
 ################# CANAIS PLEX #####################
 
-
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
 
 
@@ -135,7 +135,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e
 
 ################# CANAIS PLEX FINAL #####################
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
