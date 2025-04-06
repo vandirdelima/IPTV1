@@ -120,10 +120,22 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
 
+
+
+################# CANAIS PLEX #####################
+
+
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES 
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
 
 
+
+################# CANAIS PLEX FINAL #####################
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
