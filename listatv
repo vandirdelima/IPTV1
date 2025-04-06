@@ -1,42 +1,5 @@
 
 #EXTM3U 
-
-
-############### CONTATOS  ###############
-#EXTINF:0 tvg-logo=""group-title="",#### CONTATO ####
-
-#EXTINF:0 group-title="CONTATO",WHATSAPP
-http://los.cdnstream.com/1101_128
-
-
-#EXTINF:0 group-title="CONTATO",41-99188.4160
-https://ssl.srvstm.com:8212/;stream.mp3
-
-
-#EXTINF:0 group-title="CONTATO",OPINE SOBRE A LISTA
-http://199.195.194.94:8103/stream/;stream.mp3
-
-#EXTINF:0 group-title="CONTATO",vandir.psicanalise@gmail.com
-https://listen.181fm.com/181-hardrock_128k.mp3
-
-
-#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
-https://servidor16-3.brlogic.com:7614/live
-
-#EXTINF:0 group-title="CONTATO",TERAPIA ONLINE
-https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
-
-
-#EXTINF:0 group-title="CONTATO",CHAMADA DE VIDEO 
-http://199.195.194.140:8300//;stream.mp3
-
-
-#EXTINF:0 group-title="CONTATO",CONSULTA GRATUITA
-http://streaming15.hstbr.net:8288/autodj
-
-
-
-
 ############### CARTOONS  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
 
@@ -47,13 +10,12 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w903109623.m3u8
 #EXTINF:0 tvg-logo="" group-title="CARTOON",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-
-
 ############### FILMES SÉRIES  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TESTE
-https://stmv1.srvif.com:1443/play.php?login=backuptv&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2028.mp4
+
+#EXTINF:0 tvg-logo="" group-title="CARTOON",TESTE1
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=1f1b0291-99ea-4592-99f0-12cd8d0c402d&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=1f1b0291-99ea-4592-99f0-12cd8d0c402d&deviceLat=-25.4200&deviceLon=-49.2100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=BR&serverSideAds=false&sessionID=2859fe6a-12f4-11f0-a25f-327300662534&sid=2859fe6a-12f4-11f0-a25f-327300662534&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3NTEwNmFjLTU3ZjctNGZhYS05OWJjLWQ1YzU5MWNlMTI0OSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyODU5ZmU2YS0xMmY0LTExZjAtYTI1Zi0zMjczMDA2NjI1MzQiLCJjbGllbnRJUCI6IjIwMS40MS4xNjguMTI0IiwiY2l0eSI6IkN1cml0aWJhIiwicG9zdGFsQ29kZSI6IjgyODIxLTAzMCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwNDksImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjUuNDIwMDAwMDc2MjkzOTQ1LCJkZXZpY2VMb24iOi00OS4yMDk5OTkwODQ0NzI2NTYsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzNC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTEuMC1mZDAyNmU3ZTk3MTRmMWUyNzNjM2M1ODA2OWViOWU5NjdmMmM3Y2E4IiwiY2xpZW50SUQiOiIxZjFiMDI5MS05OWVhLTQ1OTItOTlmMC0xMmNkOGQwYzQwMmQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxZjFiMDI5MS05OWVhLTQ1OTItOTlmMC0xMmNkOGQwYzQwMmQiLCJmd1ZjSUQyQ29wcGEiOiIxZjFiMDI5MS05OWVhLTQ1OTItOTlmMC0xMmNkOGQwYzQwMmQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjFmMWIwMjkxLTk5ZWEtNDU5Mi05OWYwLTEyY2Q4ZDBjNDAyZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMDMsMTAwMTQsMTAwMTYsMTAwMTMsMTAwMTUsMTAwMjAsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpNV1l4WWpBeU9URXRPVGxsWVMwME5Ua3lMVGs1WmpBdE1USmpaRGhrTUdNME1ESmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQ0MDM2NDMwLCJpYXQiOjE3NDM5NTAwMzAsImp0aSI6IjI4NjJiMTZiLTI3YWUtNGE2Yi1hYWM3LTRjY2ViMGZiZmM2MCJ9.eI3Ss9vy0U-2Tk-msvA-9xN1U4zIneLWz4FntxDQlSI&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEJC7Zxliey73nLJQ6zHw2rpRYnL8HOKADUT1eNkTkRzJpPAQ6IkZFVU56Z4c54YMF3l42Q4gQD1bDfL3mx4JSpkJZ93WS89cUkzRiQxVXT1-L6--DO1mmh_qEkrOTFOIvy6tgnxed9NxII4azddPiPipGC2FejoH55P4HRbXVTB2Amokhg_nhdMziN_03JPVgybDbDOwB1An83hA33ENz3JmEcNgmIzI4-eaFhkf_tT9b_68XqxuwZxRtCeOH0TkTI-KwBrsFhH6VSqV_0QCR0CZSKCGbh8uUwQvoSFFzGX5CphiDzmWxnIAXQKrBj4iVaw_-wTOSOTazbsM9l19t9iOpsrErtQK3llwCwx6RibDZltYU8qAZ2eWsuGMeN8hlUyUcMD5U8Od32b2oJSWCD1NUVOuaViGhRzb-VKkKiNnFxGAVnCNmY7W_LVgPt3AeK2cWNH6fDp18RrivaHDY4zMr3rkrN3AoKfZ86Xn_KhLgm9WcQ8fd8o7xcgQy95Ucv8XA3EhdQ3wkhy7nzP6Rrs8dNnR0ci_pqp356Ch78CXSDyM7AT3-ViIgITlLksi53zPc9Vt9oYR7QHheDN9cvNEH9_xlq_NgrPlzrPvd93q6cEAU9M2wAq7c79RyvR903vomkkJK6wcGhgBVBy4gZpO0UnDl0N_P9qNM4NgYICphiWHBCuLnq6S8z48BBuUU2z-u5pdvga5r-8voFAfa45rWcWFR07V3LXDmka08U5nqnf4y9wDaUvXeD58Ch6P27KHjNDd6jQC70_wBSvOHAIiIZsUwZr8899bImqlEqbA1bzCN-AUYG7z0K_uuWZSyCCvqDnDaS8VnOZdKHR8KJNj35iaj14TloUu8i-SjdoxmkleZz9pl0EaYxeu-SoEA0NKMzsDTrjgjudS18Z3oGKBDcLSOZcZ04Wclfo3WxG0uT_ZBeGkzuc5pN9EsRYS8f6WbcmtfFb_8udKBkibgQeYccVfx8BWqudqXE5WulyviT3b8gyr0PYm0cwhw8wITO2q-bnu3yT5UABvmrs4nzaHwcmdDqbM75UpnfaoBPAPUCJ2UyQan5DeJY3anWtGtIrLmYu6CDjKIWmSLjreqKUwHtj50hFon8XUGg_rEN11AfGu7ipSSVwepZsu9xLsKIV3s5CY8qhLXzdeiOJWMxu5jjZpqMlfdyBcnzDhA9M0VECA8cdbVzF63VIlnpec3RihVpAFGT9YW6yUIl0dHaxr6Be2nz9sSNsjUgQPFtsip-VtOlddGS2QU5qZL0MUmWTN9xxWHjU6lwL4LphNog9I37STkHArRXCwhmvW_hzWilsE1NIlXAkAS-b5ZLb9QITkqxynV4keXOOnlBKIatEonj4j8xwRfdr1CGUmQABgl8r5srDhss3xDRSFEqA-r0hfdV_ZtZKS0YJssmD_uUNrUfm9SCS1mE7xbBSkF02bDX6K9kfu6P2tSMQiAwd_yhSnb4_dHSwg3fWCfkvB8pXydWQnAkPkD8RQyP5kV2mNHKaxkJZAojAwsDldASYUowCtNwUR2TN87zdb3I4r1qnhO2CsUnojhwgmEzpasf24OK4S6YbqG&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2269b02ed6-68b2-4d2a-9d9a-95d257b02992%22%2Csu
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MY TIME
@@ -76,12 +38,16 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
 
 
-
 #EXTINF:0  tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
 
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77d108724ea49c113b434b912bc66da1.webp" group-title="FILMES SÉRIES",SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 ################ RUN TIME CANAIS INICIO ################################
 
@@ -139,21 +105,12 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 ################# CANAIS CLASSIQUE #####################
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV 
 https://stmv1.srvif.com/classique/classique/chunklist_w1185693098.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE PANTERAS
-https://stmv1.srvif.com/cangels/cangels/playlist.m3u8
 
 
 
@@ -168,10 +125,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
-https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
@@ -340,6 +293,14 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1912280323.
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/s320/Screenshot_2020-01-21-16-36-15.png" group-title="VARIEDADES", PARANÁ TURISMO
 http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="VARIEDADES",TVUFG 
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1276159296_b1544100_sleng.m3u8
+
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LV2P1ZoU6PI/XN2mimSYfAI/AAAAAAAAA30/9HMv5t2V1eAC2fQTGPSQ8ee-FXdDpHilwCLcBGAs/s320/Screenshot_2019-05-16-15-01-57.png" group-title="VARIEDADES",TVMASTER
+https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1700072303.m3u8
+
+
 
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicrD94LVyacuR3ADM4uvX7Ke_4uRseN9NMTtPtMUdU3FVwGpBW8Vxj_BlwAKOUnRs9DDvn72_jPj1aLbHK1dJMXutDbLWHeslgMOFS9m0ZLFN2mUqasfxCJbhFZU26CCuhEC4WfzhetRpqb7GsKBINszFzrjxALWdGxxK8Q5sbPpW1B_r80BAhVq-Z/w1200-h630-p-k-no-nu/BAND.jpg" group-title="VARIEDADES",BAND(RBA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -393,33 +354,29 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 ############### DOCUMENTÁRIOS ##############
 #EXTINF:0 tvg-logo="" group-title="",#### DOCUMENTÁRIO ####
 
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="VARIEDADES",TVUFG 
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1276159296_b1544100_sleng.m3u8
-
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LV2P1ZoU6PI/XN2mimSYfAI/AAAAAAAAA30/9HMv5t2V1eAC2fQTGPSQ8ee-FXdDpHilwCLcBGAs/s320/Screenshot_2019-05-16-15-01-57.png" group-title="VARIEDADES",TVMASTER
-https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1700072303.m3u8
-
-
-#EXTINF:0  tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="VARIEDADES",Curta HD
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="VARIEDADES", RAKUTEN DOCUMENTARIOS
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",PETLOVERS
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-
-
 #EXTINF:0  tvg-logo="https://imgur.com/RrCqjeU.png" group-title="VARIEDADES",LOVE NATURE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
 
 
 #EXTINF:0  tvg-logo="https://imgur.com/RrCqjeU.png" group-title="VARIEDADES",LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",DRONE TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="VARIEDADES", RAKUTEN DOCUMENTARIOS
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="VARIEDADES",Curta HD
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",PETLOVERS
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 
 
 #EXTINF:0  tvg-logo="https://imgur.com/CaXWpQX.png" group-title="VARIEDADES",TURBO TV
@@ -571,6 +528,39 @@ https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
 
 #EXTINF:0 group-title="RADIO",Box Mix Web Rádio
 https://stm16.xcast.com.br:7446/stream/;stream.mp3
+
+
+############### CONTATOS  ###############
+#EXTINF:0 tvg-logo=""group-title="",#### CONTATO ####
+
+#EXTINF:0 group-title="CONTATO",WHATSAPP
+http://los.cdnstream.com/1101_128
+
+
+#EXTINF:0 group-title="CONTATO",41-99188.4160
+https://ssl.srvstm.com:8212/;stream.mp3
+
+
+#EXTINF:0 group-title="CONTATO",OPINE SOBRE A LISTA
+http://199.195.194.94:8103/stream/;stream.mp3
+
+#EXTINF:0 group-title="CONTATO",vandir.psicanalise@gmail.com
+https://listen.181fm.com/181-hardrock_128k.mp3
+
+
+#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
+https://servidor16-3.brlogic.com:7614/live
+
+#EXTINF:0 group-title="CONTATO",TERAPIA ONLINE
+https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
+
+
+#EXTINF:0 group-title="CONTATO",CHAMADA DE VIDEO 
+http://199.195.194.140:8300//;stream.mp3
+
+
+#EXTINF:0 group-title="CONTATO",CONSULTA GRATUITA
+http://streaming15.hstbr.net:8288/autodj
 
 
 
