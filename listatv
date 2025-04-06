@@ -124,8 +124,8 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
 
 ################# CANAIS PLEX #####################
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
+#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_6d14132c-4c58-4972-b186-f67299cfebc6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743952164&url=94bb333784a6ee62a849f26f47addaa2-25a13c4edc17bd27fb45f792776a20c08f684282d022885f9279b477be2b29548f238fefdbe4005596dc56987accee016afd2a11d095baf48f7cd5207f28cba1db8c449a0aa6948c9073fdb133d386dba963393e1d6bd551866af7259d30656a26b191877f685e3e207916c1c9b739f916730bcbe06b3905ceaa3bf24694c54bb04806549aceb3920adf863f4b2c5db2
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES 
