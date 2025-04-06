@@ -180,15 +180,6 @@ https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w350385111.m3u8 
-
-
-
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV2
-https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w350385111.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 
