@@ -45,6 +45,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 ################ RUN TIME FINAL  ################################
 
+
+https://amg00364-amg00364c2-plex-us-3278.playouts.now.amagi.tv/playlist/amg00364-thepreviewchannelfast-tpc-plexus/playlist.m3u8
+
+
 ############### FILMES SÉRIES  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
@@ -134,8 +138,6 @@ https://ipgotv.net.br/tv/ON-TV/star_treak/
 
 ################# CANAIS CLASSIQUE FINAL #####################
 
-https://ipgotv.net.br/tv/ON-TV/star_treak/
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
@@ -179,12 +181,12 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+https://amg00364-amg00364c2-plex-us-3278.playouts.now.amagi.tv/playlist/amg00364-thepreviewchannelfast-tpc-plexus/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV2
-https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w836875984.m3u8
+shttps://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w350385111.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
