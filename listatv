@@ -132,6 +132,17 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d31
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES2 
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_8e7baa49-deeb-406e-afe0-6fb09efbe5b6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743956545&url=26a931bdacbc635f1177f81fc6f268f0-6483d9687dfad6e6b6a2806d7019225e94843049e5e7269b159574719d21592fe1addc5c7c4c9350d9e53af61808b20bb570b5bc827a632981fb1da77d77734eba9f48332c71efff1ad3eb55e8d9c3e09c3ffa3e9b53b5d8752db77a7a02e8f4a54d3dc4b8d4b2a02f883f7b00c87bfb4074a718d89a2e29bce6106696f86af7ff31cc1611c6700f27e565cf9976f71541389537aa10aa743070ca9860afc75f
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CRIME E INVESTIGAÇÃO
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
+
+
+
+
+
 ################# CANAIS PLEX FINAL #####################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
