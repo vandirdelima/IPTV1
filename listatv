@@ -128,17 +128,18 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_6d14132c-4c58-4972-b186-f67299cfebc6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743952164&url=94bb333784a6ee62a849f26f47addaa2-25a13c4edc17bd27fb45f792776a20c08f684282d022885f9279b477be2b29548f238fefdbe4005596dc56987accee016afd2a11d095baf48f7cd5207f28cba1db8c449a0aa6948c9073fdb133d386dba963393e1d6bd551866af7259d30656a26b191877f685e3e207916c1c9b739f916730bcbe06b3905ceaa3bf24694c54bb04806549aceb3920adf863f4b2c5db2
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES 
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES2 
+#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_8e7baa49-deeb-406e-afe0-6fb09efbe5b6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743956545&url=26a931bdacbc635f1177f81fc6f268f0-6483d9687dfad6e6b6a2806d7019225e94843049e5e7269b159574719d21592fe1addc5c7c4c9350d9e53af61808b20bb570b5bc827a632981fb1da77d77734eba9f48332c71efff1ad3eb55e8d9c3e09c3ffa3e9b53b5d8752db77a7a02e8f4a54d3dc4b8d4b2a02f883f7b00c87bfb4074a718d89a2e29bce6106696f86af7ff31cc1611c6700f27e565cf9976f71541389537aa10aa743070ca9860afc75f
 
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CRIME E INVESTIGAÇÃO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MM-fP5L3TGVzuS2dexZX
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CRIME E INVESTIGAÇÃO
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_238ff28b-1251-4d32-aade-d688f9aa0720&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743957292&url=6756c37b0f3350d352e9676cdd665257-c879f69ef8f2e62db376084a5402f811b2744abf69c72c8604d1ffa415131a8ee583bba0061f5b106cfc02b7faa891d1f995992213d21a094e0ee9a4ad611cd96edaee95cc39795d11c274c0751d5f5634584567d90a6bb6812934893db3ca75e4a599798620b96fdff9fd3ee951f527e16a04ad4b628e8ad9c84e174e47c6ecb9e280df2dc7926cc59790bc2243e8611267058ffefb3f189b24f5602a483c70
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=42&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=8dedd72842a6b335775f31715d3ab6d5&app_bundle=com.goldenmedia.wutang&app_store_url=https%3A%2F%2Fwww.thewutangcollection.com%2Fdevices&app_domain=thewutangcollection.com&app_name=wutangcollection&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=wutangcollection&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.thewutangcollection.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America
+mediaManifest
 
 
 
@@ -172,10 +173,6 @@ https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV 100
 https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=42&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=8dedd72842a6b335775f31715d3ab6d5&app_bundle=com.goldenmedia.wutang&app_store_url=https%3A%2F%2Fwww.thewutangcollection.com%2Fdevices&app_domain=thewutangcollection.com&app_name=wutangcollection&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=wutangcollection&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.thewutangcollection.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America
-mediaManifest
 
 
 ######################## FILMES e VARIEDADES #######################
