@@ -250,46 +250,37 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS", 24HS NEWS
-http://cdn.connectbr.com.br/24_news/index.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",LUZILANDIA
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f697cd448cd86e994fd36cf4c5c4ae09.webp" group-title="NOTICIAS",011 NEWS
-https://011news.akamaized.net/011news/011news/chunklist_w128785982.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
+https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",FALA LITORAL SC
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w414417640.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:0  tvg-logo="https://imgur.com/hgSSNfk.png" group-title="NOTICIAS",EURONEWS
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",TIMES BRASIL CNBC
+https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
 
-########################## RURAIS ########################
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="NOTICIAS",AGROTOUR RS
-https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",TIMES BRASIL CNBC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=samsung-
 
 
 ######################### INTERNACIONAIS ###########################
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR EQ
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS", TVE 24H
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_576.m3u8
-
-
-#EXTINF:0 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NOTICIAS",CGTN Esp
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR CR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW Esp
@@ -297,17 +288,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW ing
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",RT DOC Ing
-https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HukihvtCSF4/Xa44b3MUTJI/AAAAAAAACK0/kqvcXUq9AtQZmTIZ7ykCqLjbpIOvRTglwCLcBGAsYHQ/s320/Screenshot_2019-10-21-19-49-29.png"  group-title="NOTICIAS",ALJAZEERA Ing
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",PRESS TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 
 ############### RÁDIO ############### 
