@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
 
 #EXTINF:0 tvg-logo="" group-title="CARTOON",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w903109623.m3u8
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="CARTOON",JETSONS
@@ -46,9 +46,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 ################ RUN TIME FINAL  ################################
 
 
-https://amg00364-amg00364c2-plex-us-3278.playouts.now.amagi.tv/playlist/amg00364-thepreviewchannelfast-tpc-plexus/playlist.m3u8
-
-
 ############### FILMES SÉRIES  ###############
 #EXTINF:0 tvg-logo=""group-title="",#### FILMES E SÉRIES ####
 
@@ -62,7 +59,7 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
-https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES SÉRIES",JSID
@@ -70,7 +67,7 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 
 #EXTINF:0  tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES", MOVIE SPHERE
@@ -89,59 +86,39 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
-
-
 
 ################# CANAIS PLEX #####################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
-http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_6d14132c-4c58-4972-b186-f67299cfebc6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743952164&url=94bb333784a6ee62a849f26f47addaa2-25a13c4edc17bd27fb45f792776a20c08f684282d022885f9279b477be2b29548f238fefdbe4005596dc56987accee016afd2a11d095baf48f7cd5207f28cba1db8c449a0aa6948c9073fdb133d386dba963393e1d6bd551866af7259d30656a26b191877f685e3e207916c1c9b739f916730bcbe06b3905ceaa3bf24694c54bb04806549aceb3920adf863f4b2c5db2
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES SÉRIES",FILMRISE SERIES
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_8e7baa49-deeb-406e-afe0-6fb09efbe5b6&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743956545&url=26a931bdacbc635f1177f81fc6f268f0-6483d9687dfad6e6b6a2806d7019225e94843049e5e7269b159574719d21592fe1addc5c7c4c9350d9e53af61808b20bb570b5bc827a632981fb1da77d77734eba9f48332c71efff1ad3eb55e8d9c3e09c3ffa3e9b53b5d8752db77a7a02e8f4a54d3dc4b8d4b2a02f883f7b00c87bfb4074a718d89a2e29bce6106696f86af7ff31cc1611c6700f27e565cf9976f71541389537aa10aa743070ca9860afc75f
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CRIME E INVESTIGAÇÃO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4/variant.m3u8?x-plex-token=MM-fP5L3TGVzuS2dexZX&x-plex-advertising-identifier=&x-plex-client-identifier=ce120abe-f702-44af-b9cb-ff6dd0e25de5&x-plex-playback-id=p_238ff28b-1251-4d32-aade-d688f9aa0720&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743957292&url=6756c37b0f3350d352e9676cdd665257-c879f69ef8f2e62db376084a5402f811b2744abf69c72c8604d1ffa415131a8ee583bba0061f5b106cfc02b7faa891d1f995992213d21a094e0ee9a4ad611cd96edaee95cc39795d11c274c0751d5f5634584567d90a6bb6812934893db3ca75e4a599798620b96fdff9fd3ee951f527e16a04ad4b628e8ad9c84e174e47c6ecb9e280df2dc7926cc59790bc2243e8611267058ffefb3f189b24f5602a483c70
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WUTANG 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=42&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=8dedd72842a6b335775f31715d3ab6d5&app_bundle=com.goldenmedia.wutang&app_store_url=https%3A%2F%2Fwww.thewutangcollection.com%2Fdevices&app_domain=thewutangcollection.com&app_name=wutangcollection&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=wutangcollection&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.thewutangcollection.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America
-mediaManifest
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
 
 ################# CANAIS PLEX FINAL #####################
 
+
 ################# CANAIS CLASSIQUE #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV 
-https://stmv1.srvif.com/classique/classique/chunklist_w1185693098.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",STAR TREK TESTE
-https://stmv1.srvif.com:1443/play.php?login=backuptv&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2018.mp4
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES2
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",STAR TREK TESTE2
-https://ipgotv.net.br/tv/ON-TV/star_treak/
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STARTREK
+https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
+
 
 ################# CANAIS CLASSIQUE FINAL #####################
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1576010353.m3u8
-
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
@@ -493,10 +470,11 @@ http://los.cdnstream.com/1101_128
 #EXTINF:0 group-title="RADIO",Rock Radio USA
 https://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 
-
 #EXTINF:0 group-title="RADIO",City Rockers
 https://sp0.redeaudio.com/9980/stream/;stream.mp3
 
+#EXTINF:0 group-title="RADIO",Radio Rock On
+https://streaming.radiostreamlive.com/radiorockon_devices?1763483911917
 
 #EXTINF:0 group-title="RADIO",Studio Souto Discoteca 70s
 https://centova5.transmissaodigital.com:20013/;stream.mp3
@@ -504,7 +482,6 @@ https://centova5.transmissaodigital.com:20013/;stream.mp3
 
 #EXTINF:0 group-title="RADIO",Dance Bem 70 80 90
 https://radio.stmsrv.com:8170/;?1724006332480
-
 
 
 #EXTINF:0 group-title="RADIO",B4B FUNK FEVER
@@ -528,10 +505,6 @@ https://stm7.painelvox.com:8214//;stream.mp3
 
 #EXTINF:0 group-title="RADIO",Nexus Radio Dance
 https://stream5.thepuremix.net/nexusdance.mp3
-
-
-#EXTINF:0 group-title="RADIO",USA DANCE
-https://stream2.rcast.net/66781
 
 
 #EXTINF:0 group-title="RADIO",181 FM Energy 93 Euro Dance
