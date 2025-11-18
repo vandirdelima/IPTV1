@@ -254,23 +254,20 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TV ALBA 
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CANAL UOL
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="NOTICIAS",CANAL UOL
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="NOTICIAS",CNN
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="NOTICIAS",CNN MONEY
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN MONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="NOTICIAS",TIMES BRASIL CNBC
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",TIMES BRASIL CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="NOTICIAS",TIMES BRASIL CNBC
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=samsung-
 
 
 ######################### INTERNACIONAIS ###########################
