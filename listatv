@@ -39,12 +39,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 ############### FILMES SÉRIES  ###############
 
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE TRASH
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6864668119cc2e163e38d167.m3u8?X-Plex-Session-Identifier=6ljy7qqccxjt8o262x28de66&X-Plex-Product=Plex%20Web&X-Plex-Version=4.152.0&X-Plex-Client-Identifier=2fzhoxosg89q7mzno5kpydug&X-Plex-Platform=Chrome&X-Plex-Platform-Version=142.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=DyWKFUBxsAP23pcrFhfZ&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=f419139b-34ab-4390-8aa2-c7b414d2f4b8&X-Plex-Playback-Session-Id=25aae24a-b577-4f61-8347-c7b3329e003b
-
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
@@ -87,7 +81,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES SÉRIES",BANG BANG
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-################# CANAIS PLEX FINAL #####################
+################# CANAIS BANG BANG WESTERN #####################
 
 
 ################# CANAIS CLASSIQUE #####################
@@ -100,7 +94,7 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES2
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES 2
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
 
@@ -118,15 +112,19 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
+https://streaming.cloudecast.com/hls/awtv/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBkjsYSvi9QAEQE7zhLYvo2KEmhtBORElp5R1ri6CVqp1Xakrtr1OSNH04NeF8oFAMUV9nSTvKmOnIgdMIM8O-VnkFFlqPNjPrylbO3g7SrvtFiSKdQE2hGj8x0R2MvjPZtzVC-35L3aqXMglRYxvWTgM7nqdcu6ZQbIW3lSTqyTv6T7j-wXNIpvW/w1200-h630-p-k-no-nu/CANAL%2029.jpg" group-title="FILMES SÉRIES",CANAL29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SWT
+https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
@@ -137,6 +135,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES", CENTRAL TV
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4YhZ8LozzVI/X5C1dZCh6vI/AAAAAAAADe4/Z_ylY4Wq-181AqnY-WRRgv6eCfM59S0vgCLcBGAsYHQ/s0/ENTORNO%2BSUL%2BWEB%2BTV.png" group-title="FILMES SÉRIES",ENTORNOSUL
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
