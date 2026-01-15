@@ -121,8 +121,7 @@ https://streaming.cloudecast.com/hls/awtv/index.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
-
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w183500917.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
@@ -391,10 +390,6 @@ http://199.195.194.140:8300//;stream.mp3
 
 #EXTINF:0 group-title="CONTATO",CONSULTA GRATUITA
 http://streaming15.hstbr.net:8288/autodj
-
-
-#EXTINF:0 group-title="TESTE",BANG BANG
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9c5351f5d000085e8d7e/audio/audio/Portuguese/audio.m3u8
 
 
 
