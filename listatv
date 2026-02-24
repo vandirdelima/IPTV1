@@ -38,6 +38,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 ############### FILMES SÉRIES  ###############
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SESSÃO TRASH
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -75,14 +78,15 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 ################# CANAIS BANG BANG WESTERN #####################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES SÉRIES",BANG BANG
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/663b9dc7cb3ea10008f1a0ce/3321280/playlist.m3u8?sid=6e6bf7da-1114-11f1-b836-2e721af11603&deviceId=a8d37fe6-db77-4315-af4f-32f78add42ee&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAzY2RkY2Q0LTUxMjYtNDAwMC1hNTNhLWJkZWJjMzYyMTlkYyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2ZTZiZjdkYS0xMTE0LTExZjEtYjgzNi0yZTcyMWFmMTE2MDMiLCJjbGllbnRJUCI6IjE4Ny43LjE3Mi41NCIsImNpdHkiOiJDb2xvbWJvIiwicG9zdGFsQ29kZSI6IjgzNDExLTczMCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwNDksImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjUuMzE5OTk5Njk0ODI0MjIsImRldmljZUxvbiI6LTQ5LjE1MDAwMTUyNTg3ODkwNiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTQ1LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xOS4wLTdhNmMxMTU2MzFkOTQ1YzRmNzMyN2RlM2UwM2I3YzQ3NGI2OTI2NTciLCJjbGllbnRJRCI6ImE4ZDM3ZmU2LWRiNzctNDMxNS1hZjRmLTMyZjc4YWRkNDJlZSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImE4ZDM3ZmU2LWRiNzctNDMxNS1hZjRmLTMyZjc4YWRkNDJlZSIsImZ3VmNJRDJDb3BwYSI6ImE4ZDM3ZmU2LWRiNzctNDMxNS1hZjRmLTMyZjc4YWRkNDJlZSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYThkMzdmZTYtZGI3Ny00MzE1LWFmNGYtMzJmNzhhZGQ0MmVlIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAxNiwxMDAyMSwxMDAyMywxMDAwOSwxMDAxNCwxMDAxNSwxMDAyMCwxMDAyNCwxMDAwMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOllUaGtNemRtWlRZdFpHSTNOeTAwTXpFMUxXRm1OR1l0TXpKbU56aGhaR1EwTW1WbCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzE5Nzc4ODcsImlhdCI6MTc3MTg5MTQ4NywianRpIjoiZDkxMGI5ZjMtYTg0YS00NjNhLTljOTQtNDRlZTEwNWU2MjUxIn0.PNVtiGSQtRRekYNJ82T4DC18NRHVFXQntPEOHCqvrqc&CMCD=mtp%3D19900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22669ac5c7-e84e-403d-9c19-d649f0b5ecf7%22
+
+
+
+
 
 ################# CANAIS BANG BANG WESTERN #####################
 
