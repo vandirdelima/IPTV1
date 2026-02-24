@@ -65,6 +65,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77d108724ea49c113b434b912bc66da1.webp" group-title="FILMES SÉRIES",SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVNA
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=708q8947
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
@@ -115,6 +118,8 @@ https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
 
 ################# CANAIS CLASSIQUE FINAL #####################
 
+################# CANAIS SÉRIES #####################
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
@@ -125,7 +130,7 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
-https://streaming.cloudecast.com/hls/awtv/index.m3u8
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBkjsYSvi9QAEQE7zhLYvo2KEmhtBORElp5R1ri6CVqp1Xakrtr1OSNH04NeF8oFAMUV9nSTvKmOnIgdMIM8O-VnkFFlqPNjPrylbO3g7SrvtFiSKdQE2hGj8x0R2MvjPZtzVC-35L3aqXMglRYxvWTgM7nqdcu6ZQbIW3lSTqyTv6T7j-wXNIpvW/w1200-h630-p-k-no-nu/CANAL%2029.jpg" group-title="FILMES SÉRIES",CANAL29
@@ -178,80 +183,7 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w56745997
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",VARGEM
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w191368855.m3u8
 
-############################ VARIEDADES  ####################
-#EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
 
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="VARIEDADES",TVSOL
-http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="VARIEDADES", GALEGA 
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/454924e01d06c3bc20131e8514187305.webp" group-title="VARIEDADES",CONECT 
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="VARIEDADES",SERTÃOTV 
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w2076598673.m3u8
-
-
-L#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="VARIEDADES",MASTERTV PR
-http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1883670134.m3u8
-
-
-####################### REDES #############################
-
-
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="VARIEDADES",TV ONE
-https://video02.logicahost.com.br/tvone/tvone/chunklist_w916879426.m3u8
-
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="VARIEDADES",TVERS 
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/s320/Screenshot_2020-01-21-16-36-15.png" group-title="VARIEDADES", PARANÁ TURISMO
-http://200.189.113.201/hls/tve.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="VARIEDADES",TVUFG 
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1276159296_b1544100_sleng.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb5NG6d8im4wL6-fLrIY_ZPBYRUb0CwmHTHy6dXAghtsbgbD_-KvRA3852-Ozq1ZQEVo8Bw4Lc6d2uyt1Zs0eAKbzj9aYtFs2PSBSPXsf6VudscDdjwkfG88XtxcKaG3ud7nDi0MNvIqwqhTkMLsO_JKfS0XMfIMJWUvPtuERB1PH7L4WoAIm2Xn5B/w1200-h630-p-k-no-nu/SBT.jpg" group-title="VARIEDADES",SBT PI
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w193816281.m3u8
-
-
-#EXTINF:0  tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="VARIEDADES", RECORD MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_w747426816.m3u8
-
-
-############### DOCUMENTÁRIOS ##############
-#EXTINF:0 tvg-logo="" group-title="",#### DOCUMENTÁRIO ####
-
-#EXTINF:0  tvg-logo="https://imgur.com/RrCqjeU.png" group-title="VARIEDADES",LOVE NATURE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
-
-
-#EXTINF:0  tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="VARIEDADES",Curta HD
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",PETLOVERS
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/CaXWpQX.png" group-title="VARIEDADES",TURBO TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",ARTS
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 ########################### NOTICIAS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
@@ -287,7 +219,7 @@ https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TIMES BRASIL CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
@@ -368,39 +300,5 @@ https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
 
 #EXTINF:0 group-title="RADIO",Box Mix Web Rádio
 https://stm16.xcast.com.br:7446/stream/;stream.mp3
-
-
-############### CONTATOS  ###############
-#EXTINF:0 tvg-logo=""group-title="",#### CONTATO ####
-
-#EXTINF:0 group-title="CONTATO",WHATSAPP
-http://los.cdnstream.com/1101_128
-
-
-#EXTINF:0 group-title="CONTATO",41-99188.4160
-https://ssl.srvstm.com:8212/;stream.mp3
-
-
-#EXTINF:0 group-title="CONTATO",OPINE SOBRE A LISTA
-http://199.195.194.94:8103/stream/;stream.mp3
-
-#EXTINF:0 group-title="CONTATO",vandir.psicanalise@gmail.com
-https://listen.181fm.com/181-hardrock_128k.mp3
-
-
-#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
-https://servidor16-3.brlogic.com:7614/live
-
-#EXTINF:0 group-title="CONTATO",TERAPIA ONLINE
-https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
-
-
-#EXTINF:0 group-title="CONTATO",CHAMADA DE VIDEO 
-http://199.195.194.140:8300//;stream.mp3
-
-
-#EXTINF:0 group-title="CONTATO",CONSULTA GRATUITA
-http://streaming15.hstbr.net:8288/autodj
-
 
 
