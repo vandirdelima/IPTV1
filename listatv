@@ -38,6 +38,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 ############### FILMES SÉRIES  ###############
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hZz7_x_7dbGoVAESMDWs
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SESSÃO TRASH
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
@@ -61,12 +66,12 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0  tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77d108724ea49c113b434b912bc66da1.webp" group-title="FILMES SÉRIES",SONY ONE CLASSICS
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVNA
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=8s3f7bw8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
@@ -158,6 +163,9 @@ https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CLUBE
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w247230482.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SWT
