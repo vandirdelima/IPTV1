@@ -38,6 +38,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 ############### FILMES SÉRIES  ###############
 
+#EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES SÉRIES",HALLO MOVIE
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL TV
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV HALLOWEEN
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
+
+
+#EXTINF:0  tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES", MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hZz7_x_7dbGoVAESMDWs
@@ -61,13 +74,6 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-
-
-#EXTINF:0  tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES", MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV HALLOWEEN
-https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY CLASSICS
