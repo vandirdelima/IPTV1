@@ -75,8 +75,15 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ANDROMEDA
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-656236cc5dbccec83a87b647/variant.m3u8?x-plex-token=Ex4Nxdf64tL1sM_xvSt3&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_fa00146e-0fe8-4940-b99f-8e63b2eed4eb&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=145.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1772050315&url=b78c9853bc532bdcf3f36f19a5ad8e46-865cf91e9806061fec5a89ded70806deea66bf8ea49499ebb047528efb8f99ea4273ae9296a0909104191f50db9bb5ceddcb5aa90c8c16fadac1b8a49b11e9040c1eaa83053dfd2dcf50a14b9f9df28276c388d445630bafbbb90ca8947f9f7b2b34d87eb0470ee51de6b0200b66493f2e75d2ffd68506b176603973dd5733c36c8627b28451ded5f16af7a1ecd21803a409e93014ca98b07a4980f53416f16f
+
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",HUNTER
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66f6b6baac1a1890ef197a4b/variant.m3u8
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66f6b6baac1a1890ef197a4b/variant.m3u8?x-plex-token=Ex4Nxdf64tL1sM_xvSt3&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_38caf13b-7ae9-4e0c-a818-3ec2dc3d8de3&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=145.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1772048769&url=dedcb435a6e04dd124e68b8682230f9f-d4c5cb481922cbc6c29e8643cef6c3faa18bbf27763e35f927fdd9edd9f8deb6b2d6a8c53f3c180ede45180812c78ba03c32d68616a1718cfade04cfc3b86e8dafe558597e642b8aef4d0408c3439a976210baa23ca214e226df929072679fc4fd6836122648308848fd7093c91e02e43ac95b1844bc0fc9e89a9d4ed3839e25a7a26ea1914d6d6b7b8e1940f07e8c03f3e59b89467af0d817f6704d17a3347cc38cfc298ea9cf84454f65af086e8a343496793f52736a584dec8e56365cf4e26046b9db5d902f45f608afbb5a1df2db
+
+
 
 ####################### FILMES SÉRIES CLÁSSICOS  #####################
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",
@@ -87,10 +94,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66f6b6baac1a
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992/variant.m3u8?x-plex-token=LzHzyy8oH4z5kCyP4Wyc&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_e90bf5fb-b421-44a2-b78d-cdb95c84eedf&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=145.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1772037049&url=be320695735f808002420304763271af-61dffb8a404c792796391fd9431709763511f3c84cd4ae2ce1321983d5ce6b34779749e57e2fb548a1a17c9e212cab8f944769a416af234da789ae9981efcb8ede8e5555b3cd0603c1f1f5d3647460e17c500fa53211965fc67ebfce46b65da64c5af9e52b7b4dfcd27188cb7042870d
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
@@ -181,8 +184,6 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ANDROMEDA
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8
 
 
 ########################### NOTICIAS #########################
