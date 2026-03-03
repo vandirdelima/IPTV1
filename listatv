@@ -141,6 +141,9 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67d1be3696c7
 
 ################# CANAIS BANG BANG WESTERN #####################
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",Western Bound
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
+
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
