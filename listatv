@@ -129,6 +129,9 @@ https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="FILMES SÉRIES",FILMRISE SERIES 
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876002/hls/master.m3u8?ads.xumo_channelId=88876002
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="FILMES SÉRIES",ZNATION
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67d1be3696c7b08c26c19d64/variant.m3u8?x-plex-token=Ex4Nxdf64tL1sM_xvSt3&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_4db46cb6-cd61-4a43-b168-e908c11384f1&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=145.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1772575709&url=a14d4b17fab0673cc3dc0cae1e8cef81-ce55b5b5d9060c34daec8d5713e6424e89fbd08c1de1d9961c43ab2bc84fcb6f0838d7e1f631a9788b488dcbceb465c941af9c86684aeb994eb72416b3bdd428499da19e5f288f70edda0f366a3177b116ef1c032007a8f82273eef5f37401bc5e51bd8264fb00d4d0485a513b507b3256b01501a45733c0901f5db2025dcd5be5547031b49336dab4894349ff4b69ac36489f9d258caaafd2bb629f449ce510
+
 
 
 ####################### FILMES SÉRIES CLÁSSICOS  #####################
