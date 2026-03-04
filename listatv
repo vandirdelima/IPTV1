@@ -41,9 +41,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:0 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="FILMES SÉRIES", DARK MATTER
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992147
-
 #EXTINF:0 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES SÉRIES", CINDIE LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
