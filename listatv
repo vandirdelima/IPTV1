@@ -184,13 +184,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STARTREK
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STAR TREK
 https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="DESENHOS",STAR TREK
-https://stmv2.painelvideocast.com.br/startrek/startrek/chunklist_w462981114.m3u8
-
-
 
 ################# CANAIS CLASSIQUE FINAL #####################
 
