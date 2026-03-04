@@ -187,6 +187,10 @@ https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STAR TREK
 https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BATMAN
+https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
+
+
 ################# CANAIS CLASSIQUE FINAL #####################
 
 ################# CANAIS SÉRIES #####################
@@ -242,10 +246,6 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BATMAN
-https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
-
 
 ########################### DESENHOS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### DESENHOS ####
