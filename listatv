@@ -60,6 +60,9 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES SÉRIES", DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES SÉRIES",MEDO TV
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
+
 #EXTINF:0 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
@@ -72,24 +75,21 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV HALLOWEEN
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES SÉRIES",FILMELIER TV
+#EXTINF:0 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES SÉRIES",FILMELIER 
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES SÉRIES",FILMELIER TV PAIXAO
+#EXTINF:0 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES SÉRIES",FILMELIER PAIXAO
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES SÉRIES",FILMELIER TV VIDA REAL
+#EXTINF:0 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES SÉRIES",FILMELIER VIDA REAL
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/JwdK85f.png" group-title="FILMES SÉRIES",FILMELIER TV ESPERANCA
+#EXTINF:0 tvg-logo="https://imgur.com/JwdK85f.png" group-title="FILMES SÉRIES",FILMELIER ESPERANCA
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL TV
+#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-
-#EXTINF:0 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES SÉRIES",MEDO TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/caqWa3N.png" group-title="FILMES SÉRIES",ROMANCE CHANNEL
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
@@ -166,6 +166,7 @@ https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV WESTERN
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/chunklist_w1097093977.m3u8
 
+
 ################# CANAIS BANG BANG WESTERN #####################
 
 ################# CANAIS CLASSIQUE #####################
@@ -202,11 +203,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-
-
 #EXTINF:0 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="FILMES SÉRIES",AW TV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBkjsYSvi9QAEQE7zhLYvo2KEmhtBORElp5R1ri6CVqp1Xakrtr1OSNH04NeF8oFAMUV9nSTvKmOnIgdMIM8O-VnkFFlqPNjPrylbO3g7SrvtFiSKdQE2hGj8x0R2MvjPZtzVC-35L3aqXMglRYxvWTgM7nqdcu6ZQbIW3lSTqyTv6T7j-wXNIpvW/w1200-h630-p-k-no-nu/CANAL%2029.jpg" group-title="FILMES SÉRIES",CANAL29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -234,10 +232,6 @@ https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CLUBE
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVIVA TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w247230482.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SWT
 https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
 
@@ -246,6 +240,12 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1057516788.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w247230482.m3u8
 
 ########################### DESENHOS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### DESENHOS ####
@@ -265,16 +265,16 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1Hjl9HJ.png" group-title="DESENHOS", INSPETOR BUGIGANGA
+#EXTINF:0 tvg-logo="https://imgur.com/1Hjl9HJ.png" group-title="DESENHOS", INSPETOR BUGIGANGA
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WhWFd21.png" group-title="DESENHOS", TURMA DA MONICA
+#EXTINF:0 tvg-logo="https://imgur.com/WhWFd21.png" group-title="DESENHOS", TURMA DA MONICA
 https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Hyz1of0.png" group-title="DESENHOS", SONIC
+#EXTINF:0 tvg-logo="https://imgur.com/Hyz1of0.png" group-title="DESENHOS", SONIC
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="DESENHOS",DUM DUM
+#EXTINF:0 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="DESENHOS",DUM DUM
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d46374a1e7c49/bunnycontent_main.m3u8
 
 
