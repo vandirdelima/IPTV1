@@ -244,6 +244,16 @@ https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w247230482.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/pmbvqZI.png" group-title="FILMES SÉRIES",MVERSO TV
+https://video08.logicahost.com.br/gustavov/gustavov/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="FILMES SÉRIES",SATO MAIS
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="FILMES SÉRIES",XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+
 ########################### DESENHOS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### DESENHOS ####
 
@@ -252,9 +262,6 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="DESENHOS",AnimeTV
-https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -274,6 +281,12 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_ch
 #EXTINF:0 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="DESENHOS",DUM DUM
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d46374a1e7c49/bunnycontent_main.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",AnimeTV
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/H8WfuOK.png" group-title="DESENHOS",HALLO ANIME
+https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
