@@ -53,9 +53,6 @@ https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/caqWa3N.png" group-title="FILMES SÉRIES",ROMANCE CHANNEL
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hZz7_x_7dbGoVAESMDWs
 
@@ -63,6 +60,9 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SESSÃO TRASH
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
+
+#EXTINF:0 tvg-logo="https://imgur.com/caqWa3N.png" group-title="FILMES SÉRIES",ROMANCE CHANNEL
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -95,11 +95,6 @@ https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
-https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
@@ -123,7 +118,7 @@ https://stmv2.painelvideocast.com.br/classiquew/classiquew/chunklist_w1097093977
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",BANG BANG 24H
 https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WEZTERN BOUND
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
 
@@ -133,6 +128,10 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 ################# FIM CANAIS WESTERN #####################
 
 ################# FILMES E SÉRIES #####################
+
+
+#EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://imgur.com/SycjYCs.png" group-title="FILMES SÉRIES",ANDROMEDA
