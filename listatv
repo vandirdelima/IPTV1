@@ -202,6 +202,9 @@ https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w1358440971.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="FILMES SÉRIES", REDE BRASIL 
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100x100_ecommerce_Acesso_Brasil_TV_ih0G4wu.png" group-title="FILMES SÉRIES",ACESSO BRASIL
+https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/chunklist_w428607599.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
@@ -228,9 +231,6 @@ https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w247230482.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/pmbvqZI.png" group-title="FILMES SÉRIES",MVERSO TV
-https://video08.logicahost.com.br/gustavov/gustavov/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="FILMES SÉRIES",SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
@@ -341,6 +341,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW ing
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="NOTICIAS",TV HISTÓRIA
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",NATURE TIME
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
