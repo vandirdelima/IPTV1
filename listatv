@@ -238,6 +238,9 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="FILMES SÉRIES",XTREME TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ASSOMBRAÇÕES
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-686459791a2f321847ec038f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
+
 
 ########################### DESENHOS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### DESENHOS ####
@@ -277,11 +280,9 @@ https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
-
-
-
 ########################### NOTICIAS #########################
 #EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -330,6 +331,10 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",HISPANTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
+
+######################### DOCUMENTÁRIOS ###########################
+
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW Esp
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
