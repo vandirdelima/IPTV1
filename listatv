@@ -49,6 +49,28 @@ https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:0 tvg-logo="https://imgur.com/JwdK85f.png" group-title="FILMES SÉRIES",FILMELIER ESPERANCA
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV HALLOWEEN
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SESSÃO TRASH
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES SÉRIES", DARKFLIX 
+https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES SÉRIES",MEDO TV
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?X-Plex-Session-Identifier=yvgnrxnvcrlyx43vcdy81b2y&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=148.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=84bbdef0-43f8-4826-802e-e7ba4a1962da
+
 #EXTINF:0 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
@@ -58,28 +80,9 @@ https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES SÉRIES", CINDIE LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?X-Plex-Session-Identifier=yvgnrxnvcrlyx43vcdy81b2y&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=148.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=84bbdef0-43f8-4826-802e-e7ba4a1962da
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SESSÃO TRASH
-https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
-
-
-#EXTINF:0 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES SÉRIES",ADRENALINA PURA TV HALLOWEEN
-https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ACTION HOLLYWOO MOVIES
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66be944f8711311880995280.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRIGHT FLIX
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-621674502c2627c068e73ada/variant.m3u8?x-plex-token=qQ_eVkWB4Z-fyxy8BKB-&x-plex-advertising-identifier=&x-plex-client-identifier=p4egjh2u43mta5sfpcys3hs1&x-plex-playback-id=p_7f310778-1151-4d68-88d3-f010746ceaed&x-plex-playback-session-id=18636e97-e96e-4993-8d2b-dd318edca838&x-plex-session-id=2b944b81-a038-4ed7-8235-e08b5d990911&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=148.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1511x674%2C1360x768&x-plex-device-vendor=&x-plex-version=4.159.0&x-plex-provider-streaming-start=1778899272&url=92f42156c362e9a449eb8e3a442812cc-18de069b00f45c0dca472b2afa43979ccc8b7145f5dc99fff7068ada18785b19ff8538085f0d6244f7dc0638ce1bd62e89a1c60396c4a0cc6474f5f70f73c5c668be96bafeb91b2229f64beb9a92f85de2c29c7a4af4802de0355c8992b379d579399657289e6be30b28b8db69fff7ca
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME BEAT
@@ -92,11 +95,6 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c54
 #EXTINF:0 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES SÉRIES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES SÉRIES", DARKFLIX 
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES SÉRIES",MEDO TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES SÉRIES",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
@@ -128,12 +126,10 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
+################# CANAIS BANG BANG WESTERN #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-
-################# CANAIS BANG BANG WESTERN #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV WESTERN
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/chunklist_w1097093977.m3u8
@@ -187,11 +183,9 @@ https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
 
 ################# CANAIS SÉRIES #####################
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISTER BEAN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/ac52cc_a792db0229fd445f93ed50367aca4863~mv2.jpg/v1/fill/w_80,h_81,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/TV%20CHANNEL%20RADIO%20-%20NOVA%20MARCA%20JUNHO%202025.jpg" group-title="FILMES SÉRIES",TV CHANNEL
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BATMAN
-https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
@@ -246,8 +240,20 @@ https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="FILMES SÉRIES",SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w744921863.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="FILMES SÉRIES",XTREME TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISTER BEAN
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BATMAN
+https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
 
 
 ########################### DESENHOS #########################
