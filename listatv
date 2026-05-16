@@ -75,9 +75,6 @@ https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 
-
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ACTION HOLLYWOO MOVIES
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66be944f8711311880995280.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
@@ -102,6 +99,10 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="FILMES SÉRIES",CLASSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
@@ -247,6 +248,9 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-686459791a2f
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",RETRO CARTOON 2
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
