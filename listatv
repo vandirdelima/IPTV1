@@ -128,6 +128,9 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 ################# CANAIS BANG BANG WESTERN #####################
 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE MULTI
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
@@ -262,8 +265,6 @@ https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="DESENHOS",RETRO CARTOON 2
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DESENHOS",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
