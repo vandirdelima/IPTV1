@@ -214,11 +214,11 @@ https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="FILMES SÉRIES",ZNATION
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67d1be3696c7b08c26c19d64.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/ac52cc_a792db0229fd445f93ed50367aca4863~mv2.jpg/v1/fill/w_80,h_81,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/TV%20CHANNEL%20RADIO%20-%20NOVA%20MARCA%20JUNHO%202025.jpg" group-title="FILMES SÉRIES",TV CHANNEL
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CHANNEL
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES", SERIES CLASSIC
+#EXTINF:0 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES",SERIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
