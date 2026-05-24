@@ -85,10 +85,6 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66be944f8711311880995280.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME BEAT
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68c98e7460586565cc56baab/variant.m3u8?x-plex-token=qQ_eVkWB4Z-fyxy8BKB-&x-plex-advertising-identifier=&x-plex-client-identifier=p4egjh2u43mta5sfpcys3hs1&x-plex-playback-id=p_fa0df18b-0f86-46cc-8437-8a15d6c46401&x-plex-playback-session-id=249bb9cc-fc76-403c-8c18-c871aa47b001&x-plex-session-id=2b944b81-a038-4ed7-8235-e08b5d990911&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=148.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1511x674%2C1360x768&x-plex-device-vendor=&x-plex-version=4.159.0&x-plex-provider-streaming-start=1778900604&url=8e31f0bf80cfc5c551846d56c2acfb05-d7fdd167d49bf9abc566dd179b4ca21d9f0b4be9610df8834dae6459a6dbe7dfdbc3d54f05053e8848269ff1629627081245f06f4b816d28ebdd5abdbcd8eebbfcaa0272c3ab8df8e29e709aed6002df71f357b90d194de9c56f128d38c004a0aae423aa3eae83bd671407e1e540b27eaf96c02d0fc67e6256f55f411580315e895216940d90da63d016bc8c8dc3e8d248b2e9104065647d15256934d9bc19a40b824f7839dde9ade2d0b636807843a8f3d74694d4806f7aad8011e86559be1d2331041d05cfdb0b769c1bd67cc324a7
-
-
 #EXTINF:0 tvg-logo="https://imgur.com/caqWa3N.png" group-title="FILMES SÉRIES",ROMANCE CHANNEL
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 
@@ -126,6 +122,13 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRISTMAS 
+https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+
+
 ################# CANAIS BANG BANG WESTERN #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE MULTI
@@ -161,15 +164,21 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE STAR TREK
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",STAR TREK SÉRIE 1
 https://stmv2.painelvideocast.com.br/startrek/startrek/playlist.m3u8
 
 ################# CANAIS CLASSIQUE FINAL #####################
 
 ################# CANAIS SÉRIES #####################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK
+#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK 2
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHIPS
+https://stmv2.painelvideocast.com.br/chipstv/chipstv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",VIKI TV
+https://stmv2.srvif.com/webtv001/webtv001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="FILMES SÉRIES",THE CHOSEN
 https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
@@ -217,8 +226,7 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w183500917.m3u8
-
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
 https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w1358440971.m3u8
@@ -235,7 +243,7 @@ https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/chunklist_w428607599.m3u8
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES", RC TV
+#EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES",TV3
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 
 
@@ -376,52 +384,38 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 ######################### DOCUMENTÁRIOS ###########################
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW Esp
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="DOCUMENTÁRIO",DW Esp
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW ing
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="DOCUMENTÁRIO",DW ing
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="NOTICIAS",TV HISTÓRIA
+#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="DOCUMENTÁRIO",TV HISTÓRIA
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="NOTICIAS",NATURE TIME
+#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
 https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="NOTICIAS",LOVE NATURE
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="NOTICIAS",NATURALEZA SALVAJE
+#EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="DOCUMENTÁRIO",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",WILD EARTH
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",MAGELLANTV WILDEST
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",MAGELLANTV WILDEST
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-636abc6d4cbc0319a0bd49c0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEATHER SPY
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",LOVE THE PLANET
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",WEATHER SPY
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f0ff266d71dcb00449ec030.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
-######################### WEBCAM ###########################
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEBCAM PONTAL PR
-https://59d39900ebfb8.streamlock.net/8206/8206.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEBCAM MATINHOS PR
-https://video02.logicahost.com.br/camlitoranea/praiadocristo1.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEBCAM PONTE GUARATUBA 1 PR
-https://video02.logicahost.com.br/ponteguaratuba/pontedeguaratuba.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEBCAM PONTE GUARATUBA 2 PR
-https://video02.logicahost.com.br/ponteguaratuba/consorcioponte2.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",WEBCAM ITAPOÁ
-https://tv.itapoaaovivo.com.br/memfs/10260afe-05e7-4ea7-a5ac-0d309d6a33f6.m3u8
 
 
 
