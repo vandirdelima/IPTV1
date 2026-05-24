@@ -3,6 +3,11 @@
 
 ################ RUN TIME INICIO ################################
 
+TESTES
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLUBE CANAIS FILMES
+https://cdn.live.br1.jmvstream.com
+
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w1200-h630-p-k-no-nu/RUNTIME.jpg" group-title="FILMES SÉRIES",RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -262,10 +267,6 @@ https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1057516788.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="FILMES SÉRIES",SATO MAIS
-https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w744921863.m3u8
 
@@ -273,6 +274,10 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w744921863.m3u
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="FILMES SÉRIES",XTREME TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="FILMES SÉRIES",SATO MAIS
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISTER BEAN
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
@@ -282,8 +287,10 @@ https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/r01w2xt.png" group-title="FILMES SÉRIES",OS ARQUIVOS DO FBI
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773c30e9e90f4e11b35d9e/bunnycontent_main.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/n53Cr73.png" group-title="FILMES SÉRIES",DETETIVES MEDICOS
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884608
+
 #EXTINF:-1 tvg-logo="https://imgur.com/c8lqm3N.png" group-title="FILMES SÉRIES",ASSOMBRACOES
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e90f4e11b35d9d/bunnycontent_main.m3u8
 
