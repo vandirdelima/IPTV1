@@ -3,11 +3,6 @@
 
 ################ RUN TIME INICIO ################################
 
-TESTES
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLUBE CANAIS FILMES
-https://cdn.live.br1.jmvstream.com
-
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w1200-h630-p-k-no-nu/RUNTIME.jpg" group-title="FILMES SÉRIES",RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -130,8 +125,16 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRISTMAS 
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://augetv.com.br/storage/785/config/FoT2OJbbs7oerhrJf51UWOANipNvO8e7PLKo73IJ.png" group-title="FILMES SÉRIES",AUGE TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/968b35_3ece926c79cc4fe297a5b0e5afb203cd~mv2.png/v1/fill/w_99,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20VINTAGE%20-%20CONNECT.png" group-title="FILMES SÉRIES",VINTAGE
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+
 
 
 ################# CANAIS BANG BANG WESTERN #####################
