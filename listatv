@@ -128,10 +128,6 @@ https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://augetv.com.br/storage/785/config/FoT2OJbbs7oerhrJf51UWOANipNvO8e7PLKo73IJ.png" group-title="FILMES SÉRIES",AUGE TV
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
