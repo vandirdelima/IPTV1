@@ -109,9 +109,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVNA FILMES
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
@@ -121,16 +118,6 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRISTMAS 
-https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://augetv.com.br/storage/785/config/FoT2OJbbs7oerhrJf51UWOANipNvO8e7PLKo73IJ.png" group-title="FILMES SÉRIES",AUGE TV
-https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
-https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
-
 
 
 ################# CANAIS BANG BANG WESTERN #####################
@@ -162,7 +149,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d31
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6674b68af04cf4bb9233c916/variant.m3u8?x-plex-token=k_-FxqsX63_X9BLh7jE_&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_9043093c-017f-4813-b76a-4368426d2719&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=148.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780540606&url=9c110b313de39882482acd4afca02928-669eb7dc336ffd3ef5d8d0df1a62081945d55687e3a827a032cee0003737c6340f6e7ba9104b6134ca2eccaec890ca4683e92d1c18c265b1efbab6741b9dd719d6d4d6a2d8289863289dea6c304f575930d52bdab7f18aec566d91b8daacfd4bd10b8c312a07da1639dab818d5839f3d46521765c801290728a0286c1293fe37f0f4f3a74ad072809fb56e70e038925e2ebbb681ab8637eabd088bc90be4619b
 
 ################# FIM CANAIS WESTERN #####################
-
 
 ################# CANAIS CLASSIQUE #####################
 
@@ -234,32 +220,9 @@ https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w1358440971.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="FILMES SÉRIES", REDE BRASIL 
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100x100_ecommerce_Acesso_Brasil_TV_ih0G4wu.png" group-title="FILMES SÉRIES",ACESSO BRASIL
-https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/chunklist_w428607599.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MBC BRASIL TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES",TV3
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CLUBE
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SWT
-https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV DIFUSÃO
-https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w902791735.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
-https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1057516788.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w744921863.m3u8
