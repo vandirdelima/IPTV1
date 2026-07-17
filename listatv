@@ -320,6 +320,9 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fa
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="NOTICIAS",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="NOTICIAS",BM&C NEWS
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w542672105.m3u8
