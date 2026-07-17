@@ -142,11 +142,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992.m3u8?X-Plex-Session-Identifier=iy8ql5gvgxmzo6fbmtgfrowr&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=146.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=e93044cb-962d-4c52-8b8c-a8c040a48062
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LONE STAR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616/variant.m3u8?x-plex-token=8t21yfzkBQHx8wrsiZbM&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_e1863fd6-7153-4257-bb7b-db08e5a9f304&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=148.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780540901&url=00a12e8331e689d9dc1aa8a626af805b-1064f67eb330a8010258d18dd52cb9cf641d06d051f9a594779e5e16ca557530cd31cb396f0a2b94969ee353519a2d952b40e7d05815acccb6922e1576348b2c0096d16731e4b379a5aea0048bf4d8ce71461b731ffaa306b270b60dfccb3db2ff512f50185285b5ee90983e26e2ac9d05ce271b80fa59506121bc6e34860f9bf114f9a0424bfa89381ec118cce8e7b5
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DEAD WALLEY
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6674b68af04cf4bb9233c916/variant.m3u8?x-plex-token=k_-FxqsX63_X9BLh7jE_&x-plex-advertising-identifier=&x-plex-client-identifier=3c507493-efe9-4217-a2db-e8f511a0f01c&x-plex-playback-id=p_9043093c-017f-4813-b76a-4368426d2719&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=148.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780540606&url=9c110b313de39882482acd4afca02928-669eb7dc336ffd3ef5d8d0df1a62081945d55687e3a827a032cee0003737c6340f6e7ba9104b6134ca2eccaec890ca4683e92d1c18c265b1efbab6741b9dd719d6d4d6a2d8289863289dea6c304f575930d52bdab7f18aec566d91b8daacfd4bd10b8c312a07da1639dab818d5839f3d46521765c801290728a0286c1293fe37f0f4f3a74ad072809fb56e70e038925e2ebbb681ab8637eabd088bc90be4619b
 
 ################# FIM CANAIS WESTERN #####################
 
@@ -321,7 +317,12 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TIMES
-https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x9dhtbg.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Ftimesbrasil.com.br%2F
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="BRASIL",VEJA+
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w542672105.m3u8
