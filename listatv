@@ -320,7 +320,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fa
 https://dmxleo.dailymotion.com/cdn/manifest/video/x9dhtbg.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Ftimesbrasil.com.br%2F
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="BRASIL",VEJA+
+#EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="NOTICIAS",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
 
 
