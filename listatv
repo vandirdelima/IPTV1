@@ -168,23 +168,18 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",OS DETETIVES
 https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISSÃO IMPOSSIVEL
-https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",COMEDY CLUB
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENT 86
-https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISSÃO IMPOSSIVEL
+https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL ACTION
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/1.m3u8
