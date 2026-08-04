@@ -164,6 +164,10 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 ################# CANAIS SÉRIES #####################
 
 
+#EXTINF:0 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES",SERIES CLASSIC
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MIAMI VICE
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
@@ -220,9 +224,6 @@ https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CHANNEL
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES SÉRIES",SERIES CLASSIC
-https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="FILMES SÉRIES",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
