@@ -119,6 +119,8 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOVA PLAY
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
 ################# CANAIS BANG BANG WESTERN #####################
 
@@ -137,6 +139,7 @@ https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992.m3u8?X-Plex-Session-Identifier=iy8ql5gvgxmzo6fbmtgfrowr&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=146.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=e93044cb-962d-4c52-8b8c-a8c040a48062
@@ -157,17 +160,36 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 ################# CANAIS SÉRIES #####################
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",OS DETETIVES
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISSÃO IMPOSSIVEL
+https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",COMEDY CLUB
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENT 86
+https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL ACTION
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/1.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL CRIME
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK 
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",VIKI TV
-https://stmv2.srvif.com/webtv001/webtv001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="FILMES SÉRIES",THE CHOSEN
-https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="FILMES SÉRIES",HEARTLAND
-https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="FILMES SÉRIES",CHARMED
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
@@ -209,15 +231,12 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="FILMES SÉRIES", RBTV
-https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w1358440971.m3u8
-
 
 #EXTINF:0 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="FILMES SÉRIES", REDE BRASIL 
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES",TV3
-https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING TV
@@ -302,7 +321,9 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w488754077.m3u8
 
 
 #EXTINF:0 tvg-logo="https://imgur.com/B82qfNP.png" group-title="NOTICIAS",JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+
+
 
 #EXTINF:0 tvg-logo="https://imgur.com/35DF4Ue.png" group-title="NOTICIAS",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
