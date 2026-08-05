@@ -78,12 +78,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319
 #EXTINF:0 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MEGA ONE
-https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOVA PLAY
-https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
-
 
 #EXTINF:0 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES SÉRIES", SPARK TV
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
@@ -123,17 +117,23 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MEGA ONE
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOSSO PLAY
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOVA PLAY
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHRISTMAS TV
+https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
+
 ################# CANAIS BANG BANG WESTERN #####################
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",MULTI TV
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",MULTI CANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SUPER CLASSICS
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE TV
