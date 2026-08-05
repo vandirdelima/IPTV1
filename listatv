@@ -110,6 +110,10 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOVA PLAY
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES SÉRIES",JSID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
@@ -122,10 +126,6 @@ https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOSSO PLAY
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NOVA PLAY
-https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHRISTMAS TV
