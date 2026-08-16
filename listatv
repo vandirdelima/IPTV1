@@ -318,12 +318,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CANAL GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
-
 #EXTINF:0 tvg-logo="https://imgur.com/lM1al4o.png" group-title="NOTICIAS",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="NOTICIAS",RECORD NEWS
@@ -334,12 +330,25 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w488754077.m3u8
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://imgur.com/35DF4Ue.png" group-title="NOTICIAS",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="NOTICIAS",CNN MONEY
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/050d362b39c14375a498bf75e6631d85/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="NOTICIAS",BM&C NEWS
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="NOTICIAS",TIMES BRASIL CNBC
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",TVL NEWS
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w542672105.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="NOTICIAS",NEW BRASIL
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
@@ -351,12 +360,10 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fa
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="NOTICIAS",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="NOTICIAS",BM&C NEWS
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jq8f0mZ.png" group-title="NOTICIAS",CARAS TV
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",TVL NEWS
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w542672105.m3u8
 
 ######################### INTERNACIONAIS ###########################
 
@@ -370,8 +377,6 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR CR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",HISPANTV
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",BLOOMBERG ING
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Session-Identifier=su8yrq5l27n3x6kbv0hmffqo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=150.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=9c1b8075-fc24-446b-892f-2d5f87138d87
@@ -387,8 +392,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="DOCUMENTÁRIO",TV HISTÓRIA
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EgHTGvn.png" group-title="DOCUMENTÁRIO",SPACE TODAY TV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="DOCUMENTÁRIO", TV HISTORIA
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
 https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
@@ -399,18 +409,11 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 #EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="DOCUMENTÁRIO",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",WILD EARTH
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
-
-#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",MAGELLANTV WILDEST
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-636abc6d4cbc0319a0bd49c0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",WEATHER SPY
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f0ff266d71dcb00449ec030.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
 
 
