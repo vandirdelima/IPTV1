@@ -131,6 +131,16 @@ https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RAKUTEN FAMILY
+https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANCHADAS
+https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
+
 ################# CANAIS BANG BANG WESTERN #####################
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",MULTI CANAIS
@@ -195,6 +205,13 @@ https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL CRIME
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL MOVIE
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/1.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL WESTERNS
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK 
@@ -315,6 +332,10 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
 
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+
 #EXTINF:0 tvg-logo="https://imgur.com/lM1al4o.png" group-title="NOTICIAS",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -409,6 +430,10 @@ https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 
 
