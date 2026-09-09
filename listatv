@@ -206,6 +206,15 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",THE ARCHIVE
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME BEAT
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68c98e7460586565cc56baab.m3u8?X-Plex-Session-Identifier=k941cvz5lbd93wy5ztqwnn8t&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=fbb1af93-9d0d-4c73-812f-8ce3b93f8329
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MID SOMERS
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67f82cc411e2a0ebf4b022d8/variant.m3u8?x-plex-token=qQ_eVkWB4Z-fyxy8BKB-&x-plex-advertising-identifier=&x-plex-client-identifier=p4egjh2u43mta5sfpcys3hs1&x-plex-playback-id=p_92b9513f-9975-4f88-ae35-024ca612814b&x-plex-playback-session-id=29aeedaf-c201-4496-8b65-6e4176dfa66d&x-plex-session-id=2b944b81-a038-4ed7-8235-e08b5d990911&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=152.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1517x674%2C1366x768&x-plex-device-vendor=&x-plex-version=4.160.0&x-plex-provider-streaming-start=1788985343&url=09bcc43dc75d9c3ba04484e982d33477-adea4efb6e4d6b6d1e827e556170513b5dc061a88fb39cd9c4c9aa4ea1c4c58d5b2ee5285f7a616e51834ad108ec335d1e448f84054187b19f7c0b65aaf01e1ae45741dbcea23bf4db225948287077cee904c53e9eb87df3f2d90b379421a2393b2ccb0296675667265fd5276327b51ada15f4a97e776f61b7991a03de2cab9b7a7dd20c90f68d3ef0ee24c4b85a752c990911c6af7c5e769ba4756e58c5c608
+
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL ACTION
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/1.m3u8
 
