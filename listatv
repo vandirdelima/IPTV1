@@ -7,12 +7,8 @@
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="SÉRIES",HALLO SERIES
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="SÉRIES", SERIES CLASSIC
-https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="SÉRIES",CLASSIQUE TV SERIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ibBTpCS.png" group-title="SÉRIES",TV CLASSICOS
-https://alanza.iptv2022.com/sh/Tv_classicos/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="SÉRIES",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iUCteVc.png" group-title="SÉRIES", O REI DO BAIRRO
@@ -25,10 +21,7 @@ https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",ARNOLD
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/STcGZA4.png" group-title="SÉRIES",COMEDY CLUB
-https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bqNcHmx.png" group-title="SÉRIES",OS DETETIVES
-https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",SERIES NOVELESCAS
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/czuXmAd.png" group-title="SÉRIES",SERIES FAMILIA
@@ -59,8 +52,7 @@ https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="SÉRIES",CHARMED JOVENS BRUXAS
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="SÉRIES",WESTERN BOUND
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f5db557dc5ea4552bb723690a52f5aee/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="SÉRIES",HEARTLAND
 https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="SÉRIES",ROOKIE BLUE
@@ -197,9 +189,6 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ARTE FLIX
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES SÉRIES",HALLO MOVIE
-https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
