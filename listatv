@@ -1,7 +1,99 @@
 
 #EXTM3U 
 
-################ RUN TIME INICIO ################################
+################################ SÉRIES INICIO ################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="SÉRIES",URBAN SERIES
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="SÉRIES",HALLO SERIES
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="SÉRIES", SERIES CLASSIC
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="SÉRIES",CLASSIQUE TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ibBTpCS.png" group-title="SÉRIES",TV CLASSICOS
+https://alanza.iptv2022.com/sh/Tv_classicos/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2
+#EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="SÉRIES",TV EXPLOSAO SERIES
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iUCteVc.png" group-title="SÉRIES", O REI DO BAIRRO
+https://jmp2.uk/plu-6a5520691a435d3dfcda8340.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES", TV RETRO
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",A FEITICEIRA
+https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",MAC GYVER
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",ARNOLD
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/STcGZA4.png" group-title="SÉRIES",COMEDY CLUB
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bqNcHmx.png" group-title="SÉRIES",OS DETETIVES
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",SERIES NOVELESCAS
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/czuXmAd.png" group-title="SÉRIES",SERIES FAMILIA
+https://jmp2.uk/plu-69c71615a8ef5d7f33e7322e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="SÉRIES",THE CHOSEN
+https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="SÉRIES",THE WALKING DEAD BY AMC
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="SÉRIES",THE WALKING DEAD BY AMC
+https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eJU8vWO.png" group-title="SÉRIES",Z NATION
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876018/hls/master.m3u8?ads.xumo_channelId=88876018
+#EXTINF:-1 tvg-logo="https://imgur.com/u3b0qvI.png" group-title="SÉRIES",CLUBE DO TERROR
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876019/hls/master.m3u8?ads.xumo_channelId=88876019
+#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="SÉRIES",STAR TREK
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SycjYCs.png" group-title="SÉRIES",ANDROMEDA
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
+#EXTINF:-1 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="SÉRIES",FILMRISE SERIES GRATUITAS
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876002/hls/master.m3u8?ads.xumo_channelId=88876002
+#EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CEU
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876017/hls/master.m3u8?ads.xumo_channelId=88876017
+#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="SÉRIES",CHARMED JOVENS BRUXAS
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="SÉRIES",KENAN E KEL
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="SÉRIES",ICARLY
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="SÉRIES",CHARMED JOVENS BRUXAS
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="SÉRIES",WESTERN BOUND
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f5db557dc5ea4552bb723690a52f5aee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="SÉRIES",HEARTLAND
+https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="SÉRIES",ROOKIE BLUE
+https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8ior8jT.png" group-title="SÉRIES",NICKELODEON TEEN
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qtZprex.png" group-title="SÉRIES",SERIES CRIMINAIS
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/urpkury.png" group-title="SÉRIES",CSI MIAMI
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Gvf3mU.png" group-title="SÉRIES",NCIS TONY E ZIVA
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nhNyWsJ.png" group-title="SÉRIES",SERIES ACAO
+https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5HvQdyZ.png" group-title="SÉRIES",SERIES SCI FI
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/30DLGzL.png" group-title="SÉRIES",A CACADORA DE RELIQUIAS
+https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bbnHuWo.png" group-title="SÉRIES",SERIES DRAMA
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SBaLSEL.png" group-title="SÉRIES",SERIES COMEDIA
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8qm3lt0.png" group-title="SÉRIES",BET
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7EuXqVQ.png" group-title="SÉRIES",NUMBERS
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="SÉRIES",SONY ONE EMOCOES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+################################ SÉRIES FIM ################################
+
+
+################################ RUN TIME INICIO ################################
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w1200-h630-p-k-no-nu/RUNTIME.jpg" group-title="FILMES SÉRIES",RUNTIME FILMES
@@ -31,10 +123,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES SÉRIES",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-################ RUN TIME FINAL  ################################
+################################ RUN TIME FINAL  ################################
 
 
-############### FILMES SÉRIES  ###############
+################################ FILMES SÉRIES  ###############
 
 #EXTINF:0 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES SÉRIES",FILMELIER 
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
@@ -76,7 +168,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e9
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE CATASTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES ACAO TOTAL
+#EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES AÇÃO TOTAL
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
