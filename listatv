@@ -587,8 +587,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="NOTICIAS",CNN MONEY
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/050d362b39c14375a498bf75e6631d85/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",TVL NEWS
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w542672105.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="NOTICIAS",NEW BRASIL
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
@@ -600,10 +598,6 @@ https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="NOTICIAS",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/jq8f0mZ.png" group-title="NOTICIAS",CARAS TV
-https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
-
 
 
 ######################### INTERNACIONAIS ###########################
