@@ -631,6 +631,10 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61d73ab0a7b7
 ######################### DOCUMENTÁRIOS ###########################
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="DOCUMENTÁRIO", TV HISTORIA
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="DOCUMENTÁRIO",DW Esp
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
@@ -641,30 +645,47 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-logo="https://imgur.com/EgHTGvn.png" group-title="DOCUMENTÁRIO",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="DOCUMENTÁRIO", TV HISTORIA
-https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
-https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="DOCUMENTÁRIO",NATURALEZA SALVAJE
-https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIO",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
 
 
+######################### DOCUMENTÁRIOS FIM ###########################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
+https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
+https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
+http://95.67.12.82:9098
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="DOCUMENTÁRIO",NATURALEZA SALVAJE
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO", NATURE MOMENTS
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",ANIMAIS
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",NATUREZA
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 
 
 
