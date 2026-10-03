@@ -1338,6 +1338,7 @@ https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="DOCUMENTÁRIO",NATURE TIME
 https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
 
@@ -1355,29 +1356,31 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO",LOVE NATURE
 http://95.67.12.82:9098
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/gDPlH5Z.png" group-title="DOCUMENTÁRIO",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO", NATURE MOMENTS
 https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO", NATURE MOMENTS
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",ANIMAIS
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",ANIMAIS
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",NATUREZA
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="DOCUMENTÁRIO", NATURE MOMENTS
-https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",ANIMAIS
-https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DOCUMENTÁRIO",NATUREZA
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
