@@ -542,10 +542,10 @@ https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="FILMES SÉRIES",TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/QyAQP9d.png" group-title="BRASIL", TVE MS
+#EXTINF:-1 tvg-logo="https://imgur.com/QyAQP9d.png" group-title="FILMES SÉRIES", TVE MS
 https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 
 
