@@ -512,7 +512,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e9
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ATA37nb.png" group-title="BRASIL", RBTV
+#EXTINF:-1 tvg-logo="https://imgur.com/ATA37nb.png" group-title="FILMES SÉRIES", RBTV
 https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="FILMES SÉRIES", REDE BRASIL 
@@ -521,13 +521,13 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES",TV3
 https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=2c7232fd-2aab-439c-9eff-82276c3035e6
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="BRASIL",TVCI
+#EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="FILMES SÉRIES",TVCI
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RBUlkm0.png" group-title="BRASIL", TV CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/RBUlkm0.png" group-title="FILMES SÉRIES", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
-#EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
+#EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="FILMES SÉRIES",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 ################################ FTA FILMES SÉRIES ###############
 
