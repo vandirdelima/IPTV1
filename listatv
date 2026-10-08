@@ -217,8 +217,10 @@ https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="SÉRIES",HEARTLAND
 https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="SÉRIES",ROOKIE BLUE
 https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/8ior8jT.png" group-title="SÉRIES",NICKELODEON TEEN
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qtZprex.png" group-title="SÉRIES",SERIES CRIMINAIS
@@ -352,6 +354,9 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FELIZ PLAY
+https://stmv2.painelvideocast.com.br/felizplay/felizplay/chunklist_w1301154727.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
@@ -444,6 +449,9 @@ https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNIVERSAL WESTERNS
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINEVAULT WESTERNS
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK 
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
@@ -523,7 +531,7 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 
 
 #EXTINF:0 tvg-logo="https://imgur.com/secIlPU.png" group-title="FILMES SÉRIES",TV3
-https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8
+https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=9a56551b-38f6-4b27-a455-e7ab6d158475
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="FILMES SÉRIES",TVCI
@@ -534,8 +542,11 @@ https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="FILMES SÉRIES",TV BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QyAQP9d.png" group-title="BRASIL", TVE MS
+https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 
 
 ################################ FTA FILMES SÉRIES ###############
@@ -590,6 +601,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 ########################### NOTICIAS INICIO #########################
 #EXTINF:0 tvg-logo="" group-title="",#### NOTICIAS ####
 
+#EXTINF:0 tvg-logo="" group-title="DESENHOS",BAND NEWS FM
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="NOTICIAS",RECORD NEWS
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
@@ -619,6 +632,9 @@ https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="NOTICIAS",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CNN
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 
 ######################### INTERNACIONAIS ###########################
