@@ -1035,8 +1035,6 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w1200-h630-p-k-no-nu/GLN%20TV.jpg" group-title="FILMES SÉRIES",GLN
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
@@ -1147,10 +1145,6 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876002/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u3b0qvI.png" group-title="FILMES SÉRIES",CLUBE DO TERROR
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876019/hls/master.m3u8?ads.xumo_channelId=88876019
-
-
-#EXTINF:0 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="FILMES SÉRIES",ZNATION
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/5f31d43b-8a9d-4e9a-aae2-17840163928a/5.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CHANNEL
