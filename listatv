@@ -1134,14 +1134,6 @@ https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="FILMES SÉRIES",STAR TREK 
-https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="FILMES SÉRIES",CHARMED
-https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-
-
 #EXTINF:0 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES SÉRIES",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -1175,14 +1167,6 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w744921863.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="FILMES SÉRIES",XTREME TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MISTER BEAN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ex4Nxdf64tL1sM_xvSt3
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BATMAN
 https://stmv2.painelvideocast.com.br/serial1/serial1/playlist.m3u8
