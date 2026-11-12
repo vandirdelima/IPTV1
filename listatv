@@ -989,8 +989,7 @@ https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES SÉRIES",FILMES AÇÃO TOTAL
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CRIME INVESTIGAÇÃO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?X-Plex-Session-Identifier=yvgnrxnvcrlyx43vcdy81b2y&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=148.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=84bbdef0-43f8-4826-802e-e7ba4a1962da
+
 
 #EXTINF:0 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES SÉRIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
@@ -1064,15 +1063,11 @@ https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 
-#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="FILMES SÉRIES",WESTERN BOUND PT
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992/variant.m3u8?x-plex-token=HcWZyhFrgY27J8tdQmxo&x-plex-advertising-identifier=&x-plex-client-identifier=p4egjh2u43mta5sfpcys3hs1&x-plex-playback-id=p_e491b95f-23f4-481a-bf9a-3496310b685b&x-plex-playback-session-id=d3405253-3fd3-441a-8d9f-5ec15169848f&x-plex-session-id=2b944b81-a038-4ed7-8235-e08b5d990911&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=hosted&x-plex-platform=Chrome&x-plex-platform-version=157.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1517x674%2C1366x768&x-plex-device-vendor=&x-plex-version=4.163.0&x-plex-provider-streaming-start=1794523942&url=2f1980db4c6ccc98183581ee500ed66a-5634440da5d4fd480a4a6db5e2d4e897448aad1a5480bb9bdb40ac57fe6ccec5710b0bec10600d27e4b2b53d62ea389f4edde2e677cb215f2860f43eff0d4ed4fcd9a7e42452466e145b38a85b7aed4ca89c0e8a0f8a1e088f44ab06928638cd387dfe6755826b171e305b4b04d8efa4
-
-
-#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="FILMES SÉRIES",WESTERN BOUND PT
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND PT
 https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 
 
-#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="FILMES SÉRIES",WESTERN BOUND ING
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND ING
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
 
