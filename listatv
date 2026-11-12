@@ -368,14 +368,14 @@ https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV WESTERN
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE WESTERN 
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/chunklist_w1097093977.m3u8
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",BANG BANG 24H
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE BANG BANG
 https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
+#EXTINF:0 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES", GRJNGO WESTERN
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 
@@ -1053,19 +1053,20 @@ https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE TV WESTERN
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE WESTERN
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/chunklist_w1097093977.m3u8
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",BANG BANG 24H
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES SÉRIES",CLASSIQUE BANGBANG
 https://stmv2.painelvideocast.com.br/bangbang/bangbang/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO
+#EXTINF:0 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES SÉRIES",GRJNGO WESTERN
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",WESTERN BOUND
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992.m3u8?X-Plex-Session-Identifier=iy8ql5gvgxmzo6fbmtgfrowr&X-Plex-Product=Plex%20Web&X-Plex-Version=4.159.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=146.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x607%2C1360x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=e93044cb-962d-4c52-8b8c-a8c040a48062
+#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="FILMES SÉRIES",WESTERN BOUND PT
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992/variant.m3u8?x-plex-token=HcWZyhFrgY27J8tdQmxo&x-plex-advertising-identifier=&x-plex-client-identifier=p4egjh2u43mta5sfpcys3hs1&x-plex-playback-id=p_e491b95f-23f4-481a-bf9a-3496310b685b&x-plex-playback-session-id=d3405253-3fd3-441a-8d9f-5ec15169848f&x-plex-session-id=2b944b81-a038-4ed7-8235-e08b5d990911&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=hosted&x-plex-platform=Chrome&x-plex-platform-version=157.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1517x674%2C1366x768&x-plex-device-vendor=&x-plex-version=4.163.0&x-plex-provider-streaming-start=1794523942&url=2f1980db4c6ccc98183581ee500ed66a-5634440da5d4fd480a4a6db5e2d4e897448aad1a5480bb9bdb40ac57fe6ccec5710b0bec10600d27e4b2b53d62ea389f4edde2e677cb215f2860f43eff0d4ed4fcd9a7e42452466e145b38a85b7aed4ca89c0e8a0f8a1e088f44ab06928638cd387dfe6755826b171e305b4b04d8efa4
+
 
 ################# FIM CANAIS WESTERN #####################
 
@@ -1104,14 +1105,6 @@ https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",COMEDY CLUB
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DELITOS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2.m3u8?X-Plex-Session-Identifier=rqi8avy96njoygpwpp16o33p&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=d1e6fb83-d900-4bdf-8867-2426eb129217
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MUTANTE X
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8?X-Plex-Session-Identifier=2091dirorztlev2at4rxuogw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=ab3a9c64-d616-4c85-8a23-25596c5646d5
-
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",THE ARCHIVE
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
@@ -1269,17 +1262,6 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",NEWSMAX 
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-688b7f47c8caf40b4a62239f.m3u8?X-Plex-Session-Identifier=m3nytingudhxsr7g5q5vsp7m&X-Plex-Product=Plex%20Web&X-Plex-Version=4.162.1&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=154.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=9402418d-5538-49fb-8d95-68831f965d19
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",NEWS WORLD
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66bfb2e6144c201b8b61c10f.m3u8?X-Plex-Session-Identifier=uzpwwv878w7rokp2kt9vrqz5&X-Plex-Product=Plex%20Web&X-Plex-Version=4.162.1&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=154.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=79b8782f-524d-4a13-8b99-204ec4a68d48
-
-
-
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",BLOOMBERG ING
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Session-Identifier=su8yrq5l27n3x6kbv0hmffqo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=150.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=9c1b8075-fc24-446b-892f-2d5f87138d87
 
 ########################### NOTICIAS INICIO #########################
 
