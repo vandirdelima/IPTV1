@@ -426,12 +426,10 @@ https://stmv2.painelvideocast.com.br/miserie/miserie/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",COMEDY CLUB
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DELITOS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2.m3u8?X-Plex-Session-Identifier=rqi8avy96njoygpwpp16o33p&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=d1e6fb83-d900-4bdf-8867-2426eb129217
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MUTANTE X
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8?X-Plex-Session-Identifier=2091dirorztlev2at4rxuogw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=qQ_eVkWB4Z-fyxy8BKB-&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=ab3a9c64-d616-4c85-8a23-25596c5646d5
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8?X-Plex-Session-Identifier=t2ilxloyn9ravv3l87pw2ohc&X-Plex-Product=Plex%20Web&X-Plex-Version=4.163.0&X-Plex-Client-Identifier=p4egjh2u43mta5sfpcys3hs1&X-Plex-Platform=Chrome&X-Plex-Platform-Version=157.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1517x674%2C1366x768&X-Plex-Token=HcWZyhFrgY27J8tdQmxo&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=2b944b81-a038-4ed7-8235-e08b5d990911&X-Plex-Playback-Session-Id=d5eaf6ab-4026-42bb-81d9-d7605d55c595
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",THE ARCHIVE
