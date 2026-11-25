@@ -1,247 +1,85 @@
 
 #EXTM3U 
 
-################################ FILMES INICIO ################################
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3vDJi7G.png" group-title="FILMES",OS TRAPALHOES
-https://jmp2.uk/plu-6a5520365badf45d3088b8d8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",CHARLIE TV
-https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iFMyV2c.png" group-title="FILMES",FILME PLUS
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8Jw89iK.png" group-title="FILMES",FILM PLUS ACTION
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1HlZVMr.png" group-title="FILMES",FILM PLUS EMOTION
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lft62kn.png" group-title="FILMES",FILM PLUS FAMILY
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="FILMES",TOP MIX TV FILMES
-https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RYwSgUF.png" group-title="FILMES",NBX PIPOCA
-https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="FILMES",CINE CATASTROFE
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/quX5jy5.png" group-title="FILMES",TVNA FILMES
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sIPFb9I.png" group-title="FILMES",MEGA ONE TV
-https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JecpNhs.png" group-title="FILMES", TV CHANNEL
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
-https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 CHANNEL
-https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HRkbxnw.png" group-title="FILMES", CHANCHADA TV
-https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/eMqSVYN.png" group-title="FILMES",TV CIDADE
-https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JIobzE9.png" group-title="FILMES",TV BRADOCKY
-https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="FILMES",TV MINUTO NORDESTE
-https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IG0EEB6.png" group-title="FILMES", CINEMONDE
-https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Qx5STmz.png" group-title="FILMES", XUMO FILMES GRATIS
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
-#EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
-https://stmv1.samcast.com.br/ozemar5044/ozemar5044/playlist.m3u8?hls_ctx=261e21sx
-#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hfUzprH.png" group-title="FILMES",SO WESTERN
-https://cdn-3.nxplay.com.br/SOPLAY_WESTERN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES",MY TIME
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="FILMES", DARK MATTER
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992147
-#EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES", CINDIE LITE
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES", CINDIE LITE
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES", CINDIE LITE
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
-https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES", DARKFLIX 
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES",HALLO MOVIE
-https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="FILMES",SO PLAY MOVIES
-https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/f8dC96c.png" group-title="FILMES",RUN TIME
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="FILMES",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES",RUN TIME CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="FILMES",RUN TIME CINE ESPANTO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="FILMES",RUN TIME ROMANCE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES",RUN TIME FAMILIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
-https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER TV
-https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES",FILMELIER TV PAIXAO
-https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV VIDA REAL
-https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JwdK85f.png" group-title="FILMES",FILMELIER TV ESPERANCA
-https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="FILMES",FILMES ACAO TOTAL TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/caqWa3N.png" group-title="FILMES",ROMANCE CHANNEL
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES",MEDO TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AZhMWi4.png" group-title="FILMES",SESSAO TRASH
-https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES",BANG BANG
-https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
-https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
-https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/eWkCwCH.png" group-title="FILMES",FILMES ACAO
-https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4DTl9IQ.png" group-title="FILMES",CINE COMEDIA
-https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JEbw4bv.png" group-title="FILMES",CINE COMEDIA ROMANTICA
-https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/w0xISJx.png" group-title="FILMES",CINE DRAMA
-https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="FILMES",CINE ROMANCE
-https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="FILMES",FILMES SUSPENSE
-https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4zSw6LD.png" group-title="FILMES",CINE CRIME
-https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gLvYe77.png" group-title="FILMES",FILMES DE LUTA
-https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zg5aVww.png" group-title="FILMES",CINE TERROR
-https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2HpX9Ua.png" group-title="FILMES", TERROR TRASH
-https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tKrU63x.png" group-title="FILMES",FICCAO CIENTIFICA
-https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/l3ePt46.png" group-title="FILMES",RUNTIME
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7Cc0Ot8.png" group-title="FILMES",FILMES NACIONAIS
-https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pb8wybB.png" group-title="FILMES",CINE CLASSICOS
-https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lwlrF3h.png" group-title="FILMES",CINE INSPIRACAO
-https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2EG6bS0.png" group-title="FILMES",CINE FAMILIA
-https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hs7RhZ9.png" group-title="FILMES",FILMES AVENTURA
-https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zDzR6rU.png" group-title="FILMES",NEW KMOVIES
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-c9ba5943&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-
-################################ FILMES FIM ################################
-
-
 ################################ SÉRIES INICIO ################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="SÉRIES",URBAN SERIES
+#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="Séries My",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="SÉRIES",HALLO SERIES
+#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="Séries My",HALLO SERIES
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="SÉRIES",TV EXPLOSAO SERIES
+#EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="Séries My",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iUCteVc.png" group-title="SÉRIES", O REI DO BAIRRO
+#EXTINF:-1 tvg-logo="https://imgur.com/iUCteVc.png" group-title="Séries My", O REI DO BAIRRO
 https://jmp2.uk/plu-6a5520691a435d3dfcda8340.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES", TV RETRO
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Séries My", TV RETRO
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",A FEITICEIRA
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Séries My",A FEITICEIRA
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",MAC GYVER
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Séries My",MAC GYVER
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",ARNOLD
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Séries My",ARNOLD
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="SÉRIES",SERIES NOVELESCAS
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Séries My",SERIES NOVELESCAS
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/czuXmAd.png" group-title="SÉRIES",SERIES FAMILIA
+#EXTINF:-1 tvg-logo="https://imgur.com/czuXmAd.png" group-title="Séries My",SERIES FAMILIA
 https://jmp2.uk/plu-69c71615a8ef5d7f33e7322e.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="SÉRIES",THE CHOSEN
+#EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="Séries My",THE CHOSEN
 https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="SÉRIES",THE WALKING DEAD BY AMC
+#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="Séries My",THE WALKING DEAD BY AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="SÉRIES",THE WALKING DEAD BY AMC
+#EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="Séries My",THE WALKING DEAD BY AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/eJU8vWO.png" group-title="SÉRIES",Z NATION
+#EXTINF:-1 tvg-logo="https://imgur.com/eJU8vWO.png" group-title="Séries My",Z NATION
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876018/hls/master.m3u8?ads.xumo_channelId=88876018
-#EXTINF:-1 tvg-logo="https://imgur.com/u3b0qvI.png" group-title="SÉRIES",CLUBE DO TERROR
+#EXTINF:-1 tvg-logo="https://imgur.com/u3b0qvI.png" group-title="Séries My",CLUBE DO TERROR
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876019/hls/master.m3u8?ads.xumo_channelId=88876019
-#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="SÉRIES",STAR TREK
+#EXTINF:-1 tvg-logo="https://imgur.com/cbWTeZ5.png" group-title="Séries My",STAR TREK
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SycjYCs.png" group-title="SÉRIES",ANDROMEDA
+#EXTINF:-1 tvg-logo="https://imgur.com/SycjYCs.png" group-title="Séries My",ANDROMEDA
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
-#EXTINF:-1 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="SÉRIES",FILMRISE SERIES GRATUITAS
+#EXTINF:-1 tvg-logo="https://imgur.com/QbP41LZ.png" group-title="Séries My",FILMRISE SERIES GRATUITAS
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876002/hls/master.m3u8?ads.xumo_channelId=88876002
-#EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CEU
+#EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="Séries My",O HOMEM QUE VEIO DO CEU
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876017/hls/master.m3u8?ads.xumo_channelId=88876017
-#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="SÉRIES",CHARMED JOVENS BRUXAS
+#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="Séries My",CHARMED JOVENS BRUXAS
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="SÉRIES",KENAN E KEL
+#EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="Séries My",KENAN E KEL
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="SÉRIES",ICARLY
+#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="Séries My",ICARLY
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="SÉRIES",CHARMED JOVENS BRUXAS
+#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="Séries My",CHARMED JOVENS BRUXAS
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="SÉRIES",HEARTLAND
+#EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="Séries My",HEARTLAND
 https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="SÉRIES",ROOKIE BLUE
+#EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="Séries My",ROOKIE BLUE
 https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8ior8jT.png" group-title="SÉRIES",NICKELODEON TEEN
+#EXTINF:-1 tvg-logo="https://imgur.com/8ior8jT.png" group-title="Séries My",NICKELODEON TEEN
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qtZprex.png" group-title="SÉRIES",SERIES CRIMINAIS
+#EXTINF:-1 tvg-logo="https://imgur.com/qtZprex.png" group-title="Séries My",SERIES CRIMINAIS
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/urpkury.png" group-title="SÉRIES",CSI MIAMI
+#EXTINF:-1 tvg-logo="https://imgur.com/urpkury.png" group-title="Séries My",CSI MIAMI
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1Gvf3mU.png" group-title="SÉRIES",NCIS TONY E ZIVA
+#EXTINF:-1 tvg-logo="https://imgur.com/1Gvf3mU.png" group-title="Séries My",NCIS TONY E ZIVA
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nhNyWsJ.png" group-title="SÉRIES",SERIES ACAO
+#EXTINF:-1 tvg-logo="https://imgur.com/nhNyWsJ.png" group-title="Séries My",SERIES ACAO
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5HvQdyZ.png" group-title="SÉRIES",SERIES SCI FI
+#EXTINF:-1 tvg-logo="https://imgur.com/5HvQdyZ.png" group-title="Séries My",SERIES SCI FI
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/30DLGzL.png" group-title="SÉRIES",A CACADORA DE RELIQUIAS
+#EXTINF:-1 tvg-logo="https://imgur.com/30DLGzL.png" group-title="Séries My",A CACADORA DE RELIQUIAS
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bbnHuWo.png" group-title="SÉRIES",SERIES DRAMA
+#EXTINF:-1 tvg-logo="https://imgur.com/bbnHuWo.png" group-title="Séries My",SERIES DRAMA
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SBaLSEL.png" group-title="SÉRIES",SERIES COMEDIA
+#EXTINF:-1 tvg-logo="https://imgur.com/SBaLSEL.png" group-title="Séries My",SERIES COMEDIA
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8qm3lt0.png" group-title="SÉRIES",BET
+#EXTINF:-1 tvg-logo="https://imgur.com/8qm3lt0.png" group-title="Séries My",BET
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7EuXqVQ.png" group-title="SÉRIES",NUMBERS
+#EXTINF:-1 tvg-logo="https://imgur.com/7EuXqVQ.png" group-title="Séries My",NUMBERS
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="SÉRIES",SONY ONE EMOCOES
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Séries My",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 ################################ SÉRIES FIM ################################
